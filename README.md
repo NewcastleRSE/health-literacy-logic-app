@@ -5,34 +5,23 @@
 # Standard Project
 A template repo for the standard RSE project
 
-## >> INITIAL SETUP FOR NEW PROJECTS <<   
-
-When you create a new project, we recommend that you do the following additional manual steps (and then delete this section of the readme).
-
-- Add project details to  this Readme!
-
-- Go to Settings -> Code security and Analysis and enable "Dependabot Version Updates". This will automatically create Pull Requests to keep your dependencies up-to-date. To activate this feature, you will need to specify the package ecosystem (i.e. NPM) and save the YML file. 
-
-- Add a brief description of the project to the 'About' section (top right of this page). If your project involves a website, then add the URL here too.
-
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin ante at eleifend eleifend. Sed non vestibulum nisi. Aliquam vel condimentum quam. Donec fringilla et purus at auctor. Praesent euismod vitae metus non consectetur. Sed interdum aliquet nisl at efficitur. Nulla urna quam, gravida eget elementum eget, mattis nec tortor. Fusce ut neque tellus. Integer at magna feugiat lacus porta posuere eget vitae metus.
+A static information website to guide users through the causes and proposed solutions of health literacy. 
 
 ### Project Team
 
 | Name  | Role | Affiliation
 | ------------- | ------------- | ------------- |
-| Firstname Lastname  | PI | Newcastle University  |
-| Firstname Lastname | RSE  | Newcastle Universtiy  |
+| Gill Rowlands  | PI | Newcastle University  |
 
 ## Built With
 
 This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home page or documentation in each case.
 
-[Framework 1](https://something.com)  
-[Framework 2](https://something.com)  
-[Framework 3](https://something.com)  
+[Svelte](https://svelte.dev/)  
+[SvelteKit](https://svelte.dev/docs/kit/introduction)  
+[Tailwind](https://tailwindcss.com/)  
 
 ## Getting Started
 
