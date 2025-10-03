@@ -10,7 +10,20 @@
     ],
     "causes": [
         {
+            "content-type": "subsection",
             "short-title": "language",
+            "long-title": "Some people can't speak English",
+            "content": [
+                {
+                    "help-solution": ["Teachers for speakers of othr languages able to teach reading counting and money skills alongside English", "Offer training courses to people"],
+                    "help-actions": "Making sure staff are trained",
+                    "help-delivery": "Accredited training accessed Face to Face or online"
+                }
+            ]
+        },
+        {
+            "content-type": "subsection",
+            "short-title": "other languages",
             "long-title": "Some people can't speak English",
             "help": [
                 {

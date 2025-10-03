@@ -10,13 +10,66 @@
     ],
     "causes": [
         {
+            "content-type": "subsection",
             "short-title": "language",
             "long-title": "Some people can't speak English",
-            "help": [
+            "content": [
                 {
-                    "help-solution": ["Teachers for speakers of othr languages able to teach reading counting and money skills alongside English", "Offer training courses to people"],
-                    "help-actions": "Making sure staff are trained",
-                    "help-delivery": "Accredited training accessed Face to Face or online"
+                    "short-title": "solution",
+                    "long-title": "this is the solution",
+                    "content-type":"list",
+                    "content": [
+                        "Teachers for speakers of othr languages able to teach reading counting and money skills alongside English", 
+                        "Offer training courses to people"
+                    ]
+                },
+                {
+                    "short-title": "actions",
+                    "long-title": "this is the actions",
+                    "content-type":"list",
+                    "content": [
+                        "Making sure staff are trained"
+                    ]
+                },
+                {
+                    "short-title": "delivery",
+                    "long-title": "this is the delivery",
+                    "content-type":"list",
+                    "content": [
+                        "Accredited training accessed Face to Face or online"
+                    ]
+                }
+            ]
+        },
+        {
+            "content-type": "subsection",
+            "short-title": "other languages",
+            "long-title": "Some people can't speak other languages either",
+            "content": [
+                {
+                    "short-title": "not solution",
+                    "long-title": "this is the solution",
+                    "content-type":"list",
+                    "content": [
+                        "Teachers for speakers of othr languages able to teach reading counting and money skills alongside English", 
+                        "Offer training courses to people"
+                    ]
+                },
+                {
+                    "short-title": "not actions",
+                    "long-title": "this is the actions",
+                    "content-type":"list",
+                    "content": [
+                        "Making sure staff are trained"
+                    ]
+                },
+                {
+                    "short-title": "not delivery",
+                    "long-title": "this is the delivery",
+                    "content-type":"list",
+                    "content": [
+                        "Accredited training accessed Face to Face or online"
+                    ]
                 }
             ]
         }
