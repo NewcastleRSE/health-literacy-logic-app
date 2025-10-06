@@ -2,11 +2,11 @@
     "id": "knowledge-gap",
     "short-title": "knowledge gap",
     "long-title": "People find it tricky to do things like reading, counting looking after money.",
-    "level": "System",
+    "level": "Individual / community",
     "sections": [
         {
             "short-title": "people-involved",
-            "long-title": "People involved",
+            "long-title": "Who should be involved?",
             "content-type": "list",
             "content": [
                 "People with lower skills",
