@@ -14,6 +14,7 @@ export async function load({ fetch }) {
         problemsJson[path] = data;
     }
 
+
     return {
         problems: problemsJson
     };
