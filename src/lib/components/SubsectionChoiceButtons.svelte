@@ -14,28 +14,39 @@
 		}
 	});
 
+	const activeStyling = " has-checked:bg-blue-600";
+
+	const buttonStyling = [
+		// first button
+		"group relative inline-flex items-center rounded-l-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 inset-ring-1 inset-ring-gray-300 hover:bg-gray-50 focus:z-10 dark:bg-white/10 dark:text-white dark:inset-ring-gray-700 dark:hover:bg-white/20" + activeStyling,
+		// middle buttons
+		"group relative -ml-px inline-flex items-center bg-white px-3 py-2 text-sm font-semibold text-gray-900 inset-ring-1 inset-ring-gray-300 hover:bg-gray-50 focus:z-10 dark:bg-white/10 dark:text-white dark:inset-ring-gray-700 dark:hover:bg-white/20" + activeStyling,
+		// last button
+		"group relative -ml-px inline-flex items-center rounded-r-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 inset-ring-1 inset-ring-gray-300 hover:bg-gray-50 focus:z-10 dark:bg-white/10 dark:text-white dark:inset-ring-gray-700 dark:hover:bg-white/20" + activeStyling
+	]
+
 	onMount(() => {
 		selectedSubsection = choices[0]['choice-option'];
 	});
 </script>
 
 {#if choices}
-	<fieldset aria-label="Choose a subsection">
-		<div class="mt-2 grid grid-cols-3 gap-3 sm:grid-cols-6">
-			{#each choices as choice}
+	<fieldset aria-label="Choose a subsection" class="sm:col-span-2">
+		<div class="isolate inline-flex rounded-md shadow-xs dark:shadow-none">
+			{#each choices as choice, i}
 				<label
 					aria-label={choice['choice-option']}
-					class="group relative flex items-center justify-center rounded-md border border-gray-300 bg-white p-3 has-[:checked]:border-indigo-600 has-[:checked]:bg-indigo-600 has-[:disabled]:border-gray-400 has-[:disabled]:bg-gray-200 has-[:disabled]:opacity-25 has-[:focus-visible]:outline has-[:focus-visible]:outline-2 has-[:focus-visible]:outline-offset-2 has-[:focus-visible]:outline-indigo-600 dark:border-white/10 dark:bg-gray-800/50 dark:has-[:checked]:border-indigo-500 dark:has-[:checked]:bg-indigo-500 dark:has-[:disabled]:border-white/10 dark:has-[:disabled]:bg-gray-800 dark:has-[:focus-visible]:outline-indigo-500"
+					class="{i === 0 ? buttonStyling[0] : i === choices.length - 1 ? buttonStyling[2] : buttonStyling[1]}"
 				>
 					<input
 						type="radio"
 						name={key}
 						value={choice['choice-option']}
-						class="absolute inset-0 appearance-none focus:outline focus:outline-0 disabled:cursor-not-allowed"
+						class="absolute inset-0 appearance-none focus:outline focus:outline-0 disabled:cursor-not-allowed cursor-pointer"
 						bind:group={selectedSubsection}
 					/>
 					<span
-						class="text-sm font-light text-gray-900 uppercase group-has-[:checked]:text-white dark:text-white"
+						class="text-sm font-light text-gray-900 group-has-[:checked]:text-white dark:text-white"
 						>{choice['choice-option']}</span
 					>
 				</label>
@@ -44,13 +55,25 @@
 	</fieldset>
 
 	{#if selectedObject}
-		<p class="my-3 text-lg">{selectedObject['choice-subtitle']}</p>
+		<dt
+			class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:col-start-2 sm:mt-0 dark:text-gray-300"
+		>
+			{selectedObject['choice-subtitle']}
+		</dt>
 		{#if selectedObject['content-type'] === 'subsection'}
-			{#each selectedObject['content'] as subsection}
-				<ProblemSection section={subsection} />
-			{/each}
+			<div class="border-t border-gray-100 dark:border-white/5 col-span-3">
+				<dl class="divide-y divide-gray-100 dark:divide-white/5">
+					{#each selectedObject['content'] as subsection}
+						<ProblemSection section={subsection} />
+					{/each}
+				</dl>
+			</div>
 		{:else if selectedObject['content-type'] === 'section-choice'}
+		<div class="border-t border-gray-100 dark:border-white/5 col-span-3">
+				<dl class="divide-y divide-gray-100 dark:divide-white/5">
 			<ProblemSection section={selectedObject} />
+				</dl>
+			</div>
 		{/if}
 	{/if}
 {/if}
