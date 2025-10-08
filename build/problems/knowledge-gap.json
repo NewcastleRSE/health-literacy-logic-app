@@ -1,0 +1,428 @@
+{
+    "id": "knowledge-gap",
+    "short-title": "knowledge gap",
+    "long-title": "People find it tricky to do things like reading, counting looking after money.",
+    "level": "Individual / community",
+    "sections": [
+        {
+            "short-title": "people-involved",
+            "long-title": "Who should be involved?",
+            "content-type": "list",
+            "content": [
+                "People with lower skills",
+                "People from vulnerable groups like disabled people",
+                "Patients",
+                "Homeless people",
+                "Adult education organisations",
+                "Adult skills teachers",
+                "Local councils",
+                "Charities",
+                "Voluntary groups",
+                "Community centres",
+                "GP practices",
+                "Hospitals"
+            ]
+        },
+        {
+            "short-title": "causes",
+            "long-title": "What causes the problem?",
+            "content-type": "section-choice",
+            "content": [
+                {
+                    "choice-option": "language",
+                    "choice-subtitle": "Some people can't speak English",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help?",
+                            "content-type": "list",
+                            "content": [
+                                "Teachers for speakers of other languages able to teach reading counting and money skills alongside English",
+                                "Offer training courses to people"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Making sure staff are trained"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Accredited training accessed Face to Face or online"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "People having better understanding of reading, writing, counting and money management",
+                                "People being able to use health and social care systems",
+                                "people able to understand more about their health"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "We will know how many people have been trained",
+                                "People will feel healthier",
+                                "people will be less stressed",
+                                "people will manage their health conditions better",
+                                "people will be happier with the services they receive",
+                                "people will have fewer worries about money"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Health and local authority / social care organisations will know about health literacy",
+                                "Training courses will be in place",
+                                "staff will have been trained"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
+                            "content-type": "list",
+                            "content": [
+                                "*People will feel healthier",
+                                "people will be less stressed",
+                                "people will manage their health conditions better",
+                                "people will be happier with the services they receive",
+                                "people will have fewer worries about money."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "school-failure",
+                    "choice-subtitle": "Schools that did not teach properly",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "section-choice",
+                    "content": [
+                        {
+                            "choice-option": "staff",
+                            "choice-subtitle": "Teachers who can teach reading, counting, writing and money skills",
+                            "content-type": "subsection",
+                            "content": [
+                                {
+                                    "short-title": "actions",
+                                    "long-title": "What actions are involved in doing something about this?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "Making sure staff are trained"
+                                    ]
+                                },
+                                {
+                                    "short-title": "delivery",
+                                    "long-title": "How will we deliver these actions?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "Accredited training accessed Face to Face or online"
+                                    ]
+                                },
+                                {
+                                    "short-title": "action-outcome",
+                                    "long-title": "What do we expect to come out of these actions?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "People having better understanding of reading, writing, counting and money management",
+                                        "People being able to use health and social care systems",
+                                        "people able to understand more about their health"
+                                    ]
+                                },
+                                {
+                                    "short-title": "change-marker",
+                                    "long-title": "How will we know things have changed?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "We will know how many people have been trained",
+                                        "People will feel healthier",
+                                        "people will be less stressed",
+                                        "people will manage their health conditions better",
+                                        "people will be happier with the services they receive",
+                                        "people will have fewer worries about money"
+                                    ]
+                                },
+                                {
+                                    "short-title": "short-term-change",
+                                    "long-title": "What will have changed in 1 year?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "Health and local authority / social care organisations will know about health literacy",
+                                        "Training courses will be in place",
+                                        "staff will have been trained"
+                                    ]
+                                },
+                                {
+                                    "short-title": "long-term-change",
+                                    "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
+                                    "content-type": "list",
+                                    "content": [
+                                        "*People will feel healthier",
+                                        "people will be less stressed",
+                                        "people will manage their health conditions better",
+                                        "people will be happier with the services they receive",
+                                        "people will have fewer worries about money."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "choice-option": "skills",
+                            "choice-subtitle": "Teaching reading, writing, counting and money skills to people who want to learn",
+                            "short-title": "help",
+                            "long-title": "What would help?",
+                            "content-type": "subsection",
+                            "content": [
+                                {
+                                    "short-title": "actions",
+                                    "long-title": "What actions are involved in doing something about this?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "Making teaching courses available to people who need them",
+                                        "Setting up reading groups",
+                                        "Training staff in health and local authority organisations to teach relevant reading counting and money skills"
+                                    ]
+                                },
+                                {
+                                    "short-title": "delivery",
+                                    "long-title": "How will we deliver these actions?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "Face to face support, reading groups set up"
+                                    ]
+                                },
+                                {
+                                    "short-title": "action-outcome",
+                                    "long-title": "What do we expect to come out of these actions?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "People having better understanding of reading, writing, counting and money management",
+                                        "People being able to use health and social care systems",
+                                        "people able to understand more about their health"
+                                    ]
+                                },
+                                {
+                                    "short-title": "change-marker",
+                                    "long-title": "How will we know things have changed?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "We will know how many people have been trained",
+                                        "People will feel healthier",
+                                        "people will be less stressed",
+                                        "people will manage their health conditions better",
+                                        "people will be happier with the services they receive",
+                                        "people will have fewer worries about money"
+                                    ]
+                                },
+                                {
+                                    "short-title": "short-term-change",
+                                    "long-title": "What will have changed in 1 year?",
+                                    "content-type": "list",
+                                    "content": [
+                                        "Health and local authority / social care organisations will know about health literacy",
+                                        "Training courses will be in place",
+                                        "staff will have been trained"
+                                    ]
+                                },
+                                {
+                                    "short-title": "long-term-change",
+                                    "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
+                                    "content-type": "list",
+                                    "content": [
+                                        "*People will feel healthier",
+                                        "people will be less stressed",
+                                        "people will manage their health conditions better",
+                                        "people will be happier with the services they receive",
+                                        "people will have fewer worries about money."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "staff skills",
+                    "choice-subtitle": "Some staff have low skills",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help?",
+                            "content-type": "list",
+                            "content": [
+                                "Teaching reading, writing, counting and money skills to staff"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Organisations to offer staff training to build staff reading, writing, counting and money skills"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Accredited training face to face"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "People having better understanding of reading, writing, counting and money management",
+                                "People being able to use health and social care systems",
+                                "people able to understand more about their health"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "We will know how many people have been trained",
+                                "People will feel healthier",
+                                "people will be less stressed",
+                                "people will manage their health conditions better",
+                                "people will be happier with the services they receive",
+                                "people will have fewer worries about money"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Health and local authority / social care organisations will know about health literacy",
+                                "Training courses will be in place",
+                                "staff will have been trained"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
+                            "content-type": "list",
+                            "content": [
+                                "*People will feel healthier",
+                                "people will be less stressed",
+                                "people will manage their health conditions better",
+                                "people will be happier with the services they receive",
+                                "people will have fewer worries about money."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Systems are complex",
+                    "choice-subtitle": "Health and local authority systems can't be understood and used by people with low skills",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff training in consultation tools e.g. Teach back, Chunk & Check",
+                                "Staff & administrator training in using readability tool",
+                                "Actions at the level of organisation to ensure materials can be read and used by people with all levels of skills",
+                                "Staff trained to help people use the health and benefits systems",
+                                "Using different ways if giving people information like TVs in waiting rooms, online videos"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Accredited training accessed Face to Face or online",
+                                "Training seen as an essential part of work"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "patients and clients with better understanding of health and local authority and social services systems",
+                                "people able to understand more about their health",
+                                "increased patient and client satisfaction",
+                                "greater trust between patients / clients and health and local authority organisations"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "people will manage their health conditions better",
+                                "people will be happier with the services they receive "
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "more organisations will be aware of the issues",
+                                "more staff will have been trained",
+                                "organisations will offer a wider range of ways of getting information like using TVs in waiting rooms"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
+                            "content-type": "list",
+                            "content": [
+                                "People will be happier with the services they receive",
+                                "people will be living healthier lives",
+                                "people will be using health and social care systems better",
+                                "People will feel healthier",
+                                "people will have fewer money worries",
+                                "people will be less stressed",
+                                "people will make better use of appointments",
+                                "fewer people will not turn up to their appointments"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "short-title": "current-activities",
+            "long-title": "What are the current activities in this area?",
+            "content-type": "project-list",
+            "content": [
+                {
+                    "short-title": "project-1",
+                    "long-title": "Project one!",
+                    "content-type": "project",
+                    "project-email": "project@email.com"
+                },
+                {
+                    "short-title": "project-2",
+                    "long-title": "Project two!",
+                    "content-type": "project",
+                    "project-email": "project2@email.com"
+                }
+            ]
+        }
+    ]
+}
