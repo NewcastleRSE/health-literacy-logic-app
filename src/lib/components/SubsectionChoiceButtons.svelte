@@ -20,8 +20,8 @@
 </script>
 
 {#if choices}
-	<fieldset aria-label="Choose a subsection">
-		<div class="mt-2 grid grid-cols-3 gap-3 sm:grid-cols-6">
+	<fieldset aria-label="Choose a subsection" class="sm:col-span-2">
+		<div class="mt-2 grid grid-cols-3 justify-center gap-3">
 			{#each choices as choice}
 				<label
 					aria-label={choice['choice-option']}
@@ -44,13 +44,25 @@
 	</fieldset>
 
 	{#if selectedObject}
-		<p class="my-3 text-lg">{selectedObject['choice-subtitle']}</p>
+		<dt
+			class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:col-start-2 sm:mt-0 dark:text-gray-300"
+		>
+			{selectedObject['choice-subtitle']}
+		</dt>
 		{#if selectedObject['content-type'] === 'subsection'}
-			{#each selectedObject['content'] as subsection}
-				<ProblemSection section={subsection} />
-			{/each}
+			<div class="border-t border-gray-100 dark:border-white/5 col-span-3">
+				<dl class="divide-y divide-gray-100 dark:divide-white/5">
+					{#each selectedObject['content'] as subsection}
+						<ProblemSection section={subsection} />
+					{/each}
+				</dl>
+			</div>
 		{:else if selectedObject['content-type'] === 'section-choice'}
+		<div class="border-t border-gray-100 dark:border-white/5 col-span-3">
+				<dl class="divide-y divide-gray-100 dark:divide-white/5">
 			<ProblemSection section={selectedObject} />
+				</dl>
+			</div>
 		{/if}
 	{/if}
 {/if}
