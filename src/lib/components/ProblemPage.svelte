@@ -1,5 +1,6 @@
 <script>
 	import { sectionDictionary } from '$lib/utils/sectionDictionary';
+	import {base} from '$app/state';
 
 	import ProblemSection from '$lib/components/ProblemSection.svelte';
 
@@ -25,7 +26,7 @@
 				<span
 					class="inline-flex rounded-lg bg-indigo-50 p-3 text-indigo-700 dark:bg-indigo-500/10 dark:text-indigo-400"
 				>
-					<img src="/assets/icons/{problem.icon}" alt="icon" width="64" height="64" />
+					<img src="{base}/assets/icons/{problem.icon}" alt="icon" width="64" height="64" />
 				</span>
 			</div>
 		{/if}
