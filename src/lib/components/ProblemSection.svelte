@@ -10,7 +10,10 @@
 <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
 	{#if section['content-type'] === 'list'}
 		<div class="flex flex-row space-between gap-4 items-center h-fit">
-			<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" />
+			<span
+				class="inline-flex rounded-lg p-3 dark:bg-gray-100/50"
+			>
+			<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" /></span>
 			<dt class="text-sm font-medium text-gray-900 dark:text-gray-100">{section['long-title']}</dt>
 		</div>
 		<dd class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
@@ -23,7 +26,10 @@
 	{:else if section['content-type'] === 'section-choice'}
 		<div class="flex flex-row space-between gap-4 items-center h-fit">
 
-			<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" />
+			<span
+				class="inline-flex rounded-lg p-3 dark:bg-gray-100/50"
+			>
+			<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" /></span>
 
 		<dt class="self-center text-sm font-medium text-gray-900 dark:text-gray-100">
 			{section['long-title']}
@@ -32,7 +38,10 @@
 		<SubsectionChoiceButtons choices={section.content} key={section['short-title']} />
 	{:else if section['content-type'] === 'project-list'}
 		<div class="flex flex-row space-between gap-4 items-center h-fit">
-	<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" />
+	<span
+				class="inline-flex rounded-lg p-3 dark:bg-gray-100/50"
+			>
+			<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" /></span>
 		<dt class="col-span-3 text-sm font-medium text-gray-900 dark:text-gray-100">
 			{section['long-title']}
 		</dt>
