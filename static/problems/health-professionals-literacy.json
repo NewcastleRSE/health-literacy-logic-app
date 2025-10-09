@@ -3,6 +3,7 @@
     "short-title": "Health professionals literacy",
     "long-title": "Health and public health professionals are not trained in health literacy",
     "level": "system",
+    "icon": "039-medical history.svg",
     "sections": [
         {
             "short-title": "people-involved",

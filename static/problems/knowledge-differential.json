@@ -3,6 +3,7 @@
     "short-title": "Knowledge Differential",
     "long-title": "We know more about the health of some groups of people than others.",
     "level": "system",
+    "icon": "bar chart, diagram, data, analysis, comparison.svg",
     "sections": [
         {
             "short-title": "people-involved",
