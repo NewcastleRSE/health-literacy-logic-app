@@ -19,7 +19,7 @@ const mdsvexOptions = {
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
     extensions: ['.svelte', '.md'], 
-    kit: { 
+    kit: {
       adapter: adapter({
         fallback: '404.html'
       })
