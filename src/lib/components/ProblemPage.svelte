@@ -1,6 +1,6 @@
 <script>
 	import { sectionDictionary } from '$lib/utils/sectionDictionary';
-	import {base} from '$app/state';
+	import {base} from '$app/paths';
 
 	import ProblemSection from '$lib/components/ProblemSection.svelte';
 
