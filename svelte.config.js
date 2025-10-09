@@ -19,9 +19,11 @@ const mdsvexOptions = {
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
     extensions: ['.svelte', '.md'], 
-    kit: { adapter: adapter({
-      fallback: '404.html'
-    }) },
+    kit: { 
+      adapter: adapter({
+        fallback: '404.html'
+      })
+    },
     paths: {
       base: process.argv.includes('dev') ? '' : process.env.BASE_PATH,
       relative: true,
