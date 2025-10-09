@@ -5,11 +5,18 @@ lead: "Etiam sodales quam nec sem congue volutpat sit amet eget enim. Cras eu la
 layout: article
 ---
 
+<script>
+	import {base} from '$app/paths';
+    import ImageContainer from '$lib/components/ImageContainer.svelte'
+</script>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum congue urna, non porta dui varius non. Morbi interdum ut enim eget volutpat. Cras at tempor purus. Morbi dolor sapien, consequat posuere nibh sed, rutrum pellentesque ante. Donec enim lectus, sagittis sit amet enim quis, condimentum consectetur odio. Etiam sodales quam nec sem congue volutpat sit amet eget enim. Cras eu lacus eu eros suscipit porttitor. In hac habitasse platea dictumst. Donec lacus metus, aliquet ut viverra sed, rutrum at massa. Integer tempor turpis ante, a dictum ipsum sagittis ut. Sed laoreet felis et posuere varius. Suspendisse convallis euismod tortor, sit amet fringilla massa accumsan at. Phasellus ut ipsum ultricies, malesuada mi eget, pellentesque quam. Donec dui mauris, semper non erat a, dignissim venenatis sem. Vestibulum tempor nisi et volutpat laoreet. Nunc posuere accumsan orci, vel convallis sapien pellentesque vel.
 
 Ut semper varius ex, et suscipit nisl aliquam eget. Mauris vel libero quis ex egestas volutpat. Aliquam et congue sem. Proin et urna ultricies, tristique lorem in, tempus risus. Nam quis pretium ante. Phasellus egestas ullamcorper massa, id ornare felis varius vel. Proin non tellus elit. Nulla hendrerit rutrum diam, nec tempor mi pulvinar non.
 
 Nulla placerat ornare nibh, at mollis felis vestibulum et. Curabitur risus nisi, pretium viverra tellus non, venenatis fringilla augue. Morbi egestas massa nulla, vitae bibendum ligula aliquam eu. Mauris tristique condimentum velit at molestie. Vestibulum ut venenatis dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras imperdiet dignissim pellentesque.
+
+<ImageContainer src="{base}/assets/images/bermix-studio-00heEp9LFP0-unsplash.jpg" alt="Medical student textbooks with pencil and white bookmarks and stethoscope." caption="Health literacy is important -- an example caption"/>
 
 Donec aliquam velit sed convallis aliquet. Integer luctus non nisi et lobortis. Ut feugiat, lectus in posuere rutrum, ex massa sollicitudin odio, ut auctor tortor nibh nec est. Suspendisse vitae lectus ex. Nam et pharetra quam. Maecenas interdum nulla ac diam vehicula, non egestas libero finibus. Fusce pharetra orci et justo rhoncus suscipit. Nulla ut finibus arcu. Suspendisse dignissim nibh vel mi consectetur, et blandit odio gravida. Sed vel ante lacinia, aliquet mauris in, ullamcorper lorem.
 

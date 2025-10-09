@@ -1,7 +1,5 @@
 <script>
 	let { children, title, eyebrow, lead } = $props();
-
-    console.log(title);
 </script>
 
 <div class="bg-white px-6 py-32 lg:px-8 dark:bg-gray-900">
