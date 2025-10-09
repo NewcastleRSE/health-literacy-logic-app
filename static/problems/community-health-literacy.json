@@ -3,6 +3,7 @@
     "short-title": "Community health literacy",
     "long-title": "Low level of health literacy awareness and skills in organisations, communiy and voluntary sector, unsupportive policies",
     "level": "organisational",
+    "icon": "007-hospital.svg",
     "sections": [
         {
             "short-title": "people-involved",
