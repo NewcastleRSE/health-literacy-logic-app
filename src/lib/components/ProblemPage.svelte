@@ -1,5 +1,7 @@
 <script>
 	import { sectionDictionary } from '$lib/utils/sectionDictionary';
+	import {levelsDictionary} from '$lib/utils/levelsDictionary';
+
 	import {base} from '$app/paths';
 
 	import ProblemSection from '$lib/components/ProblemSection.svelte';
@@ -17,14 +19,14 @@
 			{problem['short-title']}
 		</p>
 		<h3 class="text-base/7 font-semibold text-gray-900 dark:text-white">{problem['long-title']}</h3>
-		<span class="mb-2 inline-block rounded-full bg-blue-100 px-2 py-1 text-xs text-blue-800"
+		<span class="mb-2 inline-block rounded-full px-2 py-1 text-xs {levelsDictionary[problem.level]["background"]} {levelsDictionary[problem.level]["text"]}"
 			>{problem['level']}</span
 		>
 		</div>
 		{#if problem.icon}
 			<div>
 				<span
-					class="inline-flex rounded-lg bg-indigo-50 p-3 text-indigo-700 dark:bg-indigo-500/10 dark:text-indigo-400"
+					class="inline-flex rounded-lg p-3 {levelsDictionary[problem.level]["background"]} {levelsDictionary[problem.level]["text"]}"
 				>
 					<img src="{base}/assets/icons/{problem.icon}" alt="icon" width="64" height="64" />
 				</span>
