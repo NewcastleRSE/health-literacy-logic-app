@@ -1,0 +1,59 @@
+name: Validate Problem Schemas
+
+on:
+  pull_request:
+    branches: [ main, dev ]
+    paths:
+      - 'static/problems/**/*.json'
+      - 'problemSchema.json'
+
+jobs:
+  validate-schemas:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install ajv-cli for JSON schema validation
+      run: npm install -g ajv-cli
+      
+    - name: Validate JSON files against schema
+      run: |
+        echo "Validating JSON files in static/problems/ against problemSchema.json"
+        
+        # Check if schema file exists
+        if [ ! -f "problemSchema.json" ]; then
+          echo "Error: problemSchema.json not found"
+          exit 1
+        fi
+        
+        # Check if problems directory exists
+        if [ ! -d "static/problems" ]; then
+          echo "Error: static/problems directory not found"
+          exit 1
+        fi
+        
+        # Find all JSON files and validate them
+        find static/problems -name "*.json" -type f | while read file; do
+          echo "Validating: $file"
+          if ! ajv validate -s problemSchema.json -d "$file"; then
+            echo "❌ Validation failed for: $file"
+            exit 1
+          else
+            echo "✅ Valid: $file"
+          fi
+        done
+        
+        echo "All JSON files are valid!"
+      
+    - name: Report validation results
+      if: failure()
+      run: |
+        echo "Schema validation failed. Please check the errors above and fix the JSON files."
+        exit 1
