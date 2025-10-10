@@ -1,0 +1,194 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Problem",
+    "definitions": {
+        "Problem": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "short-title": {
+                    "type": "string"
+                },
+                "long-title": {
+                    "type": "string"
+                },
+                "level": {
+                    "type": "string"
+                },
+                "icon": {
+                    "type": "string"
+                },
+                "sections": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Section"
+                    }
+                }
+            },
+            "required": [
+                "icon",
+                "id",
+                "level",
+                "long-title",
+                "sections",
+                "short-title"
+            ],
+            "title": "Problem"
+        },
+        "Section": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "short-title": {
+                    "type": "string"
+                },
+                "long-title": {
+                    "type": "string"
+                },
+                "content-type": {
+                    "type": "string"
+                },
+                "content": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/SectionContent"
+                    }
+                }
+            },
+            "required": [
+                "content",
+                "content-type",
+                "long-title",
+                "short-title"
+            ],
+            "title": "Section"
+        },
+        "PurpleContent": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "choice-option": {
+                    "type": "string"
+                },
+                "choice-subtitle": {
+                    "type": "string"
+                },
+                "content-type": {
+                    "type": "string"
+                },
+                "content": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/FluffyContent"
+                    }
+                },
+                "short-title": {
+                    "type": "string"
+                },
+                "long-title": {
+                    "type": "string"
+                },
+                "project-email": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "content-type"
+            ],
+            "title": "PurpleContent"
+        },
+        "FluffyContent": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "short-title": {
+                    "type": "string"
+                },
+                "long-title": {
+                    "type": "string"
+                },
+                "content-type": {
+                    "$ref": "#/definitions/ContentType"
+                },
+                "content": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/ContentContentUnion"
+                    }
+                },
+                "choice-option": {
+                    "type": "string"
+                },
+                "choice-subtitle": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "content",
+                "content-type"
+            ],
+            "title": "FluffyContent"
+        },
+        "TentacledContent": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "short-title": {
+                    "type": "string"
+                },
+                "long-title": {
+                    "type": "string"
+                },
+                "content-type": {
+                    "$ref": "#/definitions/ContentType"
+                },
+                "content": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            },
+            "required": [
+                "content",
+                "content-type",
+                "long-title",
+                "short-title"
+            ],
+            "title": "TentacledContent"
+        },
+        "SectionContent": {
+            "anyOf": [
+                {
+                    "$ref": "#/definitions/PurpleContent"
+                },
+                {
+                    "type": "string"
+                }
+            ],
+            "title": "SectionContent"
+        },
+        "ContentContentUnion": {
+            "anyOf": [
+                {
+                    "$ref": "#/definitions/TentacledContent"
+                },
+                {
+                    "type": "string"
+                }
+            ],
+            "title": "ContentContentUnion"
+        },
+        "ContentType": {
+            "type": "string",
+            "enum": [
+                "list",
+                "subsection"
+            ],
+            "title": "ContentType"
+        }
+    }
+}
