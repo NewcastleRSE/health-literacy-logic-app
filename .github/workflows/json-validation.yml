@@ -1,4 +1,4 @@
-name: Validate Problem Schemas
+name: Validate Problem Data
 
 on:
   pull_request:

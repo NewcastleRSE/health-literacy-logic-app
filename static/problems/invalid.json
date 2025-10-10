@@ -1,0 +1,7 @@
+{
+    "id": "invalid-problem",
+    "short-title": "Invalid Problem",
+    "long-title": "This problem file is invalid because it is missing the sections field",
+    "level": "system",
+    "icon": "error.svg"
+}
