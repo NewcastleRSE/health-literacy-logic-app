@@ -16,7 +16,7 @@
 			<img src="{base}/assets/icons/{sectionIcon}" alt="icon" width="32" height="32" /></span>
 			<dt class="text-sm font-medium text-gray-900 dark:text-gray-100">{section['long-title']}</dt>
 		</div>
-		<dd class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300">
+		<dd class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0 dark:text-gray-300 self-center">
 			<ul class="list-inside list-disc space-y-1">
 				{#each section.content as item}
 					<li class="mb-1">{item}</li>
@@ -47,7 +47,7 @@
 		</dt>
 		</div>
 		<dd
-			class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:col-start-2 sm:mt-0 dark:text-gray-300"
+			class="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:col-start-2 sm:mt-0 dark:text-gray-300 self-center"
 		>
 			{#each section.content as project}
 				<div class="border-t border-gray-100 dark:border-white/5">

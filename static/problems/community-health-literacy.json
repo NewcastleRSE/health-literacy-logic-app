@@ -71,7 +71,7 @@
                         },
                         {
                             "short-title": "short-term-change",
-                            "long-title": "What short term changes will we see?",
+                            "long-title": "What short term changes could we see?",
                             "content-type": "list",
                             "content": [
                                 "Number of organisations trained"
@@ -119,7 +119,7 @@
                         },
                         {
                             "short-title": "short-term-change",
-                            "long-title": "What short term changes will we see?",
+                            "long-title": "What short term changes could we see?",
                             "content-type": "list",
                             "content": [
                                 "1. Improved systems",
