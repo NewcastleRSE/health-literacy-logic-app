@@ -29,4 +29,7 @@ export const sectionDictionary = {
     "current-activities": {
         "icon": "resources, allocation, management, project resources, planning.svg"
     },
+    "heading": {
+        "icon": "inspect, search, examine, zoom, analysis.svg"
+    }
 }

@@ -1,0 +1,403 @@
+{
+    "id": "language-problems",
+    "short-title": "Language Problems",
+    "long-title": "People being unable to communicate with doctors and nurses in English",
+    "level": "Individual / community",
+    "icon": "globe, language learning, world, communication, culture.svg",
+    "sections": [
+        {
+            "short-title": "heading",
+            "long-title": "What is the level being targeted?",
+            "content-type": "section-choice",
+            "content": [
+                {
+                    "choice-option": "Micro-level",
+                    "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "Adults who find it difficult to read and communicate in English",
+                                "Doctors and healthcare / social practitioners",
+                                "Social prescribers",
+                                "Staff working in healthcare and social settings"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Lack of understanding about health and illness",
+                                "High levels of people unable to read or talk to their doctor or nurse in English"
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Teaching English as a second or additional language",
+                                "Awareness of ways to support people who have experienced trauma",
+                                "Growing and gardening",
+                                "Extra-curricular groups and activities (school and community based)",
+                                "Online tools",
+                                "Artificial intelligence (AI)"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff training courses (and frequent updates)",
+                                "Reading groups",
+                                "Getting people involved and active",
+                                "Telling patients how systems work",
+                                "Rewriting materials so they are easier to read",
+                                "Teaching/training people to navigate systems",
+                                "Checking that materials are clear enough",
+                                "Building trust"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Work with English teachers",
+                                "Building peoples’ skills",
+                                "Setting up reading groups",
+                                "Use clear language in leaflets, websites etc.",
+                                "Engage with people who can develop visual and audio alternatives to information",
+                                "Check whether materials are clear enough",
+                                "Telling patients how systems work"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Skills to read, write, count and communicate for health",
+                                "Improved understanding of health",
+                                "Improved life skills",
+                                "Improved skills to manage money",
+                                "Increased social interaction",
+                                "Increased physical movement",
+                                "Reduced anxiety"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Client feedback on impact",
+                                "Qualitative feedback from patients and the public",
+                                "Measuring patient satisfaction",
+                                "Blood pressure",
+                                "Reduced addiction and use of illicit substances",
+                                "School success",
+                                "Increased knowledge and skills in health literacy",
+                                "Self-assessment questionnaires filled in by patients, members of the public and staff"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "People having better skills for health and wellbeing",
+                                "People living healthier lives",
+                                "People ageing more healthily",
+                                "Increased social interaction",
+                                "Increased awareness of health and wellbeing"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Less stress and depression",
+                                "Less illness",
+                                "More people completing treatment",
+                                "People are better at understanding and explaining risk",
+                                "Improved vaccination rates",
+                                "Materials that are easier to use"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Meso-level",
+                    "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "Health organisations",
+                                "Local councils",
+                                "Community centres",
+                                "Libraries",
+                                "Religious centres and groups",
+                                "Refugee centres",
+                                "Voluntary groups",
+                                "Charities",
+                                "Schools",
+                                "Police"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Low staff skills in communicating with people with different languages"
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff training",
+                                "Training all professionals in health literacy",
+                                "Developing health information in a range of languages",
+                                "Working with teams who teach English to people who are speakers of other languages",
+                                "Awareness and training in language brokering",
+                                "Translation services (adaptation)",
+                                "Good organisational policies"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Teaching teachers",
+                                "Mapping out organisations",
+                                "Mapping out current resources",
+                                "Engaging with the people providing the services",
+                                "Systems to translate/adapt materials",
+                                "Working with adult skills and language teachers",
+                                "Participation/engagement approaches",
+                                "Develop a health literacy facilitator/champion"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Produce health information in other languages",
+                                "Produce health information in other formats",
+                                "Delivering face-to-face training",
+                                "Deliver authorised training courses",
+                                "Deliver online training",
+                                "Develop online materials",
+                                "Utilise patient, client and carer feedback/involvement",
+                                "Targeting interventions",
+                                "Develop online/IT tools",
+                                "Develop systems that respond to peoples’ needs",
+                                "Ensure information is stored where people will go and will see it",
+                                "Ensure systems are accessible",
+                                "Ensure that systems respond to people’s needs",
+                                "Check whether systems are good enough"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Health information in languages other than English",
+                                "More staff training (e.g. in health literacy)",
+                                "Improved patient engagement and understanding",
+                                "Appropriate systems for sharing translated materials and good practice/good materials",
+                                "Clear language used across systems"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Number of people trained (staff, teachers and the public)",
+                                "Number of missed appointments",
+                                "Stage of cancer diagnosis",
+                                "Number of languages where health information is available",
+                                "% of information that is available in other languages",
+                                "Number / % of materials in clear language",
+                                "Understanding of the number of languages spoken in NENC",
+                                "Proportion of key health texts available in these languages",
+                                "Levels of co-ordination across systems",
+                                "Check whether systems are good enough",
+                                "How health literate translations are",
+                                "Measures of smoking, alcohol, exercise etc"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Improved patient / client understanding of health and health and care systems",
+                                "More staff will be trained",
+                                "Number of organisations trained",
+                                "Systems that are easier to navigate",
+                                "Systems that work better for patients",
+                                "More patients attending screening and appointments (and being properly prepared)",
+                                "Increased satisfaction with services",
+                                "Improved satisfactory and empowerment in staff (staff more engaged)",
+                                "Better health information",
+                                "Better understanding of how systems work"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "More patient satisfaction",
+                                "Improved patient satisfaction",
+                                "Better use of hospital/GP appointments",
+                                "Fewer people not attending appointments",
+                                "More early investigation and diagnosis",
+                                "More organisations and individuals trained",
+                                "Cultural change (organisation)",
+                                "Systems that respond to peoples’ needs",
+                                "Systems that are easier to use",
+                                "Ways of tackling misinformation"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Macro-level",
+                    "choice-subtitle": "Big system-wide things, like national policies or data systems",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "People who run the systems e.g. senior leaders, policy-makers, IT managers, and service planners"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Some populations having lower levels of English (e.g. refugees, undocumented asylum seekers, overseas students and their families, economic migrants/workers)"
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Health literacy embedded in the national curriculum "
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Setting goals",
+                                "Gain an understanding of the language needs of the population"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Create a digital system that works across the whole health and care service, making it easier to share, translate, and access health information for everyone"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Increased awareness of health literacy",
+                                "Improved patient outcomes"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Health measures and Quality of Life measures",
+                                "Number of people included in datasets who are currently excluded",
+                                "Mortality and morbidity rates relating to inequalities",
+                                "Disease free years (QoL)",
+                                "Population health literacy",
+                                "Health literacy in children",
+                                "Research into specific health inequalities for specific groups",
+                                "Measuring and describing change in numbers"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Systems to map and monitor action plans",
+                                "Understanding the level of need"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Better physical and mental health",
+                                "Improved public health literacy",
+                                "Reduced health inequalities",
+                                "Better health outcomes",
+                                "Increased educational attainment",
+                                "Improved health metrics (e.g. QOF targets, HbA1c, EQ5D, QALYs)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "short-title": "current-activities",
+            "long-title": "What are the current activities in this area?",
+            "content-type": "project-list",
+            "content": [
+                {
+                    "short-title": "project-1",
+                    "long-title": "Project one!",
+                    "content-type": "project",
+                    "project-email": "project@email.com"
+                },
+                {
+                    "short-title": "project-2",
+                    "long-title": "Project two!",
+                    "content-type": "project",
+                    "project-email": "project2@email.com"
+                }
+            ]
+        }
+    ]
+}

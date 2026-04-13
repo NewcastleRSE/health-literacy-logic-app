@@ -31,11 +31,10 @@
 	</div>
 	<div class="mx-auto max-w-2xl text-center">
 		<h2 class="text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl dark:text-white">
-			Health Literacy<br />logic tool
+			PATH
 		</h2>
 		<p class="mt-8 text-lg font-medium text-pretty text-gray-700 sm:text-xl/8 dark:text-gray-400">
-			Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit
-			sunt amet fugiat veniam occaecat fugiat.
+			Planning and Assessment Tool for Health Literacy
 		</p>
 	</div>
 </div>

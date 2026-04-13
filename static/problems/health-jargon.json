@@ -6,140 +6,296 @@
     "icon": "032-prescription.svg",
     "sections": [
         {
-            "short-title": "people-involved",
-            "long-title": "Who should be involved?",
-            "content-type": "list",
+            "short-title": "heading",
+            "long-title": "What is the level being targeted?",
+            "content-type": "section-choice",
             "content": [
-                "People who run the systems",
-                "Health organisations",
-                "local authorities",
-                "Staff at every level",
-                "The general public",
-                "people who find reading tricky",
-                "People who find counting tricky"
-            ]
-        },
-        {
-            "short-title": "causes",
-            "long-title": "What are the causes of the problem?",
-            "content-type": "list",
-            "content": [
-                "Systems that do not talk to each other",
-                "Organisations don't know there is a problem",
-                "Staff in organisations don't know there is a problem",
-                "Organisations don't have targets",
-                "Low staff skills in health literacy",
-                "Lack of staff time to rewrite materials",
-                "Lack of resources to rewrite materials",
-                "Not currently part of the culture of organisations",
-                "Organisation systems not fully accessible to staff"
-            ]
-        },
-        {
-            "long-title": "What would help? ",
-            "short-title": "help",
-            "content-type": "list",
-            "content": [
-                "AI",
-                "Online and automated tools to help rewrite documents",
-                "Standardised systems",
-                "staff training",
-                "Good organisation policies",
-                "Better data systems to safely store information",
-                "Sharing resources",
-                "Using pictures, diagrams, videos and animations",
-                "standardised information"
-            ]
-        },
-        {
-            "short-title": "actions",
-            "long-title": "What actions are involved in doing something about this?",
-            "content-type": "list",
-            "content": [
-                "Working with people receiving services",
-                "Developing automated systems",
-                "making the IT systems easier to use",
-                "Rewriting materials so that they are easy to read",
-                "Developing regional templates and systems",
-                "improving systems to include health literacy",
-                "giving staff training in health literacy",
-                "Making sure staff are trained often enough",
-                "training clinical staff",
-                "working with graphic illustrators, film makers and animation makers",
-                "Checking how complex materials are now (an audit)"
-            ]
-        },
-        {
-            "short-title": "delivery",
-            "long-title": "How will we deliver these actions?",
-            "content-type": "list",
-            "content": [
-                "Develop IT tools to aid simplifying health information",
-                "Automated systems",
-                "applying updates across the system",
-                "Authorised training including online and face to face",
-                "system improvements",
-                "developing online materials",
-                "work with people who can develop video and audio alternatives",
-                "always explain codes and jargon used in materials"
-            ]
-        },
-        {
-            "short-title": "action-outcome",
-            "long-title": "What do we expect to come out of these actions?",
-            "content-type": "list",
-            "content": [
-                "Clear language used across systems",
-                "health information that is easier to read and use",
-                "Health information available in other languages",
-                "health information in different formats",
-                "Less anxiety for people reading and using information"
-            ]
-        },
-        {
-            "short-title": "change-marker",
-            "long-title": "How will we know things have changed?",
-            "content-type": "list",
-            "content": [
-                "Increased patient satisfaction",
-                "Lower readability levels of documents",
-                "Asking patients and the public what they think",
-                "Describing what patients and the public think",
-                "Higher number of languages in which health information is available",
-                "Higher quality of life scores",
-                "Higher number and percentage of materials written in clear language",
-                "Self-assessment questionnaires filled in by patients, members of the public and staff"
-            ]
-        },
-        {
-            "short-title": "short-term-change",
-            "long-title": "What short term changes could we see?",
-            "content-type": "list",
-            "content": [
-                "We will be developing action plans",
-                "Systems will work better for people",
-                "Increased satisfaction with services",
-                "Staff will be happier and more engaged",
-                "People will have better skills for health",
-                "Systems will be easier to navigate",
-                "Better information for health",
-                "Materials will be easier to use"
-            ]
-        },
-        {
-            "short-title": "long-term-change",
-            "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
-            "content-type": "list",
-            "content": [
-                "Patients happier with services",
-                "Better health",
-                "Fewer people missing appointments",
-                "Materials that are easier to use",
-                "Reduced health inequalities",
-                "Better use of GP and hospital appointments",
-                "Less stress and depression",
-                "Improved health literacy of the public",
-                "More people completing treatment"
+                {
+                    "choice-option": "Micro-level",
+                    "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "People who find reading tricky",
+                                "People who find counting tricky",
+                                "People who use healthcare and other systems"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Low staff skills in health literacy",
+                                "Lack of staff time to rewrite materials",
+                                "Lack of resources to rewrite materials"
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Using pictures, diagrams, videos and animations",
+                                "Online and automated tools to help rewrite documents",
+                                "Using Artificial intelligence (AI)"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Rewriting materials so that they are easy to read",
+                                "Giving staff training in health literacy",
+                                "Making sure staff are trained often enough",
+                                "Training clinical staff",
+                                "Working with people receiving services",
+                                "Working with graphic illustrators, film makers and animation makers"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Always explain codes and jargon used in materials",
+                                "Authorised training including online and face-to-face options",
+                                "Developing online materials",
+                                "Work with people who can develop video and audio alternatives"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Less anxiety for people reading and using information"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Self-assessment questionnaires filled in by patients, members of the public and staff",
+                                "Asking patients and the public what they think",
+                                "Listening to what people think and feel about health information, and sharing what they say so it can help improve things"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "People will have better skills for health",
+                                "Materials will be easier to use"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Materials that are easier to use",
+                                "Less stress and depression",
+                                "More people completing treatment"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Meso-level",
+                    "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff at every level (within schools, healthcare, community services)",
+                                "Health organisations (e.g., NHS trusts, clinics, charities)",
+                                "Local authorities (e.g., public health teams, education departments)"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff in organisations don't know there is a problem",
+                                "Organisations don't know there is a problem",
+                                "Organisations don't have targets (e.g. specific measurable goals set to improve health literacy)",
+                                "Health literacy is not currently part of the culture of organisations",
+                                "Organisation systems are not fully accessible to staff (barriers within internal systems that prevent staff from easily accessing or using tools and resources to improve health literacy)"
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff training",
+                                "Sharing resources",
+                                "Good organisation policies",
+                                "Standardised information"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Making the IT systems easier to use",
+                                "Improving systems to include health literacy",
+                                "Checking how complex materials are now (an audit)",
+                                "Developing regional templates and systems"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "System improvements",
+                                "Applying updates across the system",
+                                "Develop IT tools to help with simplifying health information"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Health information that is easier to read and use",
+                                "Health information in different formats",
+                                "Health information available in other languages"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Increased patient satisfaction",
+                                "Lower readability levels of documents",
+                                "Higher number and percentage of materials written in clear language",
+                                "Higher number of languages in which health information is available"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Staff will be happier and more engaged",
+                                "Increased satisfaction with services",
+                                "Systems will be easier to navigate",
+                                "Better information for health"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Patients happier with services",
+                                "Better use of GP and hospital appointments",
+                                "Fewer people missing appointments"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Macro-level",
+                    "choice-subtitle": "Big system-wide things, like national policies or data systems",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "People who run the systems (e.g. government departments, senior decision-makers, policy-makers)"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Different healthcare services and systems do not talk to each other "
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Standardised systems",
+                                "Better data systems to safely store information"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Developing automated systems (e.g. broader infrastructure or technological solutions that can be scaled across systems to support health literacy improvements)"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Automated systems"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Clear language used across systems"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Quality of life scores will be higher"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "We will be developing action plans for how to improve things further",
+                                "Systems will work better for people"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "The public will have improved levels of health literacy"
+                            ]
+                        }
+                    ]
+                }
             ]
         },
         {

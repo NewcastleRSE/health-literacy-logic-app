@@ -1,9 +1,9 @@
 {
-    "id": "knowledge-differential",
-    "short-title": "Knowledge Differential",
-    "long-title": "We know more about the health of some groups of people than others (reflecting inequality and data gaps)",
-    "level": "system",
-    "icon": "bar chart, diagram, data, analysis, comparison.svg",
+    "id": "organisational-communication",
+    "short-title": "Organisational communication",
+    "long-title": "Different organisations (like health and social services) don't communicate well with each other",
+    "level": "organisational",
+    "icon": "discussion, meeting, team, business, communication.svg",
     "sections": [
         {
             "short-title": "heading",
@@ -20,18 +20,10 @@
                             "long-title": "Who should be involved?",
                             "content-type": "list",
                             "content": [
-                                "People who are at risk or outside everyday society (e.g. homeless people)",
-                                "Victims of domestic violence",
-                                "People in care or who have left care",
-                                "People who have been in the armed forces",
-                                "People with dementia",
-                                "People with learning or development disabilities",
-                                "People who receive or give unpaid care",
-                                "People who are refugees",
-                                "People who are seeking asylum",
-                                "People who entered the country illegally",
-                                "People who do not turn up for appointments",
-                                "The general public"
+                                "Frontline health professionals",
+                                "Social workers",
+                                "Community health educators",
+                                "Patient advocates"
                             ]
                         },
                         {
@@ -39,14 +31,7 @@
                             "long-title": "What are the causes of the problem?",
                             "content-type": "list",
                             "content": [
-                                "People don’t have enough money to access care or resources",
-                                "People don’t feel part of society and may be socially excluded",
-                                "People can’t speak English, making communication and understanding difficult",
-                                "People are receiving or giving unfunded care, which limits support and visibility",
-                                "People are refugees and may face barriers to accessing health services",
-                                "People find it hard to get care because of complex systems or discrimination",
-                                "People have learning or developmental needs that make health information harder to understand",
-                                "People do not have a home address, which prevents registration and follow-up"
+                                "Different people from different organisations and fields using different language (e.g. professional terms, jargon)"
                             ]
                         },
                         {
@@ -54,8 +39,10 @@
                             "long-title": "What would help to solve the problem?",
                             "content-type": "list",
                             "content": [
-                                "People who provide care being friendly and welcoming",
-                                "Having specialist trusted link workers"
+                                "Everyone using the same words",
+                                "Using words that are easy to understand",
+                                "Making sure written and spoken communication to patients and the public are easy to understand",
+                                "Letting people tell us when words are too complex"
                             ]
                         },
                         {
@@ -63,12 +50,18 @@
                             "long-title": "What actions are involved in doing something about this?",
                             "content-type": "list",
                             "content": [
-                                "Working with people who receive services",
-                                "Telling people what they are entitled to",
-                                "Helping people claim what they are entitled to",
-                                "Building trust",
-                                "Teaching people how to use the systems",
-                                "Supporting people to become more active in their own health"
+                                "Talking with people using services",
+                                "Knowing all the different words and what they mean",
+                                "Making sure these words are easy to understand"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Make sure everyone knows what these words mean",
+                                "Training courses on what words to use"
                             ]
                         },
                         {
@@ -76,7 +69,9 @@
                             "long-title": "What do we expect to come out of these actions?",
                             "content-type": "list",
                             "content": [
-                                "More people will be included in datasets"
+                                "Less use of acronyms",
+                                "Better patient and public understanding of materials",
+                                "Information that is more sensitive to different cultures"
                             ]
                         },
                         {
@@ -84,9 +79,23 @@
                             "long-title": "How will we know things have changed?",
                             "content-type": "list",
                             "content": [
-                                "Being able to measure health of more people (using tools like the EQ5D)",
-                                "Being able to measure wellbeing of more people (using tools like the Edinburgh wellbeing scale)",
-                                "Being able to describe levels of illness in more people"
+                                "Feedback from people who use the system"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "More materials will be re-written"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Information that is easier to understand"
                             ]
                         }
                     ]
@@ -103,9 +112,10 @@
                             "long-title": "Who should be involved?",
                             "content-type": "list",
                             "content": [
-                                "Charities",
-                                "Organisations that provide services",
-                                "Organisations that teach English"
+                                "Managers of local health services",
+                                "Leads in social care organisations",
+                                "Hospital administrators",
+                                "Primary care network coordinators"
                             ]
                         },
                         {
@@ -113,9 +123,8 @@
                             "long-title": "What are the causes of the problem?",
                             "content-type": "list",
                             "content": [
-                                "Organisations not  working together",
-                                "Lack of services teaching English",
-                                "Lack of effective information gathering"
+                                "Lack of communication between different services and organisations",
+                                "IT systems that don't link up to eachother or use the same words for things"
                             ]
                         },
                         {
@@ -123,10 +132,9 @@
                             "long-title": "What would help to solve the problem?",
                             "content-type": "list",
                             "content": [
-                                "People and teams who provide services working together",
-                                "Working with people who teach English",
-                                "Developing health information in other languages",
-                                "Having services that people can use"
+                                "Staff training",
+                                "Organisation policies and procedures",
+                                "IT systems can be changed"
                             ]
                         },
                         {
@@ -134,10 +142,9 @@
                             "long-title": "What actions are involved in doing something about this?",
                             "content-type": "list",
                             "content": [
-                                "Mapping out the teams and organisations that provide services",
-                                "Working with people who provide services",
-                                "Using information we already have",
-                                "Setting goals to improve that data that is gathered"
+                                "Agreeing on a common list of words across our region",
+                                "Making sure systems are in place to write information that is easy to understand and use simple words",
+                                "Developing a role for facilitators"
                             ]
                         },
                         {
@@ -145,9 +152,8 @@
                             "long-title": "How will we deliver these actions?",
                             "content-type": "list",
                             "content": [
-                                "Improve systems",
-                                "Develop better datasets",
-                                "Develop data systems that talk to each other"
+                                "Develop a set of words that everyone agrees on",
+                                "Develop online and IT tools"
                             ]
                         },
                         {
@@ -155,7 +161,8 @@
                             "long-title": "What do we expect to come out of these actions?",
                             "content-type": "list",
                             "content": [
-                                "Data sets will be improved"
+                                "Clear languages used across systems",
+                                "Better understanding between systems"
                             ]
                         },
                         {
@@ -163,7 +170,25 @@
                             "long-title": "How will we know things have changed?",
                             "content-type": "list",
                             "content": [
-                                "Higher number (and proportion) of previously excluded people on databases"
+                                "Random checks of literature and communication to see if things have improved",
+                                "More organisations trained"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Things will work better for patients",
+                                "More organisations will be involved"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Systems that work better"
                             ]
                         }
                     ]
@@ -180,7 +205,10 @@
                             "long-title": "Who should be involved?",
                             "content-type": "list",
                             "content": [
-                                "People/organisations who look after health and social care data"
+                                "Senior executives in health authorities",
+                                "Government health policy makers",
+                                "National social care directors",
+                                "Regulatory bodies and commissioners"
                             ]
                         },
                         {
@@ -188,7 +216,7 @@
                             "long-title": "What are the causes of the problem?",
                             "content-type": "list",
                             "content": [
-                                "Data is not effectively gathered or managed"
+                                "Different services and organisations don’t work together "
                             ]
                         },
                         {
@@ -196,7 +224,8 @@
                             "long-title": "What would help to solve the problem?",
                             "content-type": "list",
                             "content": [
-                                "Organisations having good policies and systems in place e.g. for gathering and looking at data"
+                                "Good policies and procedures",
+                                "Good infrastructure to allow organisations to work together"
                             ]
                         },
                         {
@@ -204,7 +233,7 @@
                             "long-title": "What actions are involved in doing something about this?",
                             "content-type": "list",
                             "content": [
-                                "Setting goals to improve the data that is gathered"
+                                "Setting goals for meeting targets for improvements"
                             ]
                         },
                         {
@@ -212,7 +241,42 @@
                             "long-title": "How will we deliver these actions?",
                             "content-type": "list",
                             "content": [
-                                "Develop a central database of all patients"
+                                "Develop data systems that talk with each other",
+                                "Use Artificial Intelligence to support systems"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "More awareness of health literacy"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "More different systems involved and improved",
+                                "Cost savings"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "We will have action plans in place",
+                                "Better use of resources"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "Systems that work better together"
                             ]
                         }
                     ]

@@ -6,79 +6,152 @@
     "icon": "039-medical history.svg",
     "sections": [
         {
-            "short-title": "people-involved",
-            "long-title": "Who should be involved?",
-            "content-type": "list",
+            "short-title": "heading",
+            "long-title": "What is the level being targeted?",
+            "content-type": "section-choice",
             "content": [
-                "The teaching regulation authority",
-                "The social work regulation authority (Social Work England)"
-            ]
-        },
-        {
-            "short-title": "causes",
-            "long-title": "What are the causes of the problem?",
-            "content-type": "list",
-            "content": [
-                "Lack of awareness of the need for health literacy in traning for teaching and social work professionals"
-            ]
-        },
-        {
-            "long-title": "What would help? ",
-            "short-title": "help",
-            "content-type": "list",
-            "content": [
-                "Government guidance for regulatory bodies"
-            ]
-        },
-        {
-            "short-title": "actions",
-            "long-title": "What actions are involved in doing something about this?",
-            "content-type": "list",
-            "content": [
-                "*Talking with the government",
-                "Change in government policy",
-                "*Talking with regulatory bodies"
-            ]
-        },
-        {
-            "short-title": "delivery",
-            "long-title": "How will we deliver these actions?",
-            "content-type": "list",
-            "content": [
-                "*Writing policy briefs",
-                "Meeting with key people (ministers, civil servants, regulatory bodies)"
-            ]
-        },
-        {
-            "short-title": "action-outcome",
-            "long-title": "What do we expect to come out of these actions?",
-            "content-type": "list",
-            "content": [
-                "Health literacy training embedded in health and public health professional training"
-            ]
-        },
-        {
-            "short-title": "change-marker",
-            "long-title": "How will we know things have changed?",
-            "content-type": "list",
-            "content": [
-                "Health literacy will appear in health and public health training"
-            ]
-        },
-        {
-            "short-title": "short-term-change",
-            "long-title": "What short term changes could we see?",
-            "content-type": "list",
-            "content": [
-                "Policy brief to ministers"
-            ]
-        },
-        {
-            "short-title": "long-term-change",
-            "long-title": "What do we think will happen in the longer term (3 years)? For example, increased health literacy, better disease control, improved health",
-            "content-type": "list",
-            "content": [
-                "More health and public health professions will be starting to learn about health literacy as they train"
+                {
+                    "choice-option": "Micro-level",
+                    "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "Health professionals",
+                                "Patient"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Health professionals do not realise how important health literacy is for patient outcomes"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Meso-level",
+                    "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "Training providers",
+                                "Universities",
+                                "Health professionals"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Training providers and universities do not include health literacy in their curricula for health professionals"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Meeting with key people (e.g. ministers, civil servants, regulatory bodies)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "choice-option": "Macro-level",
+                    "choice-subtitle": "Big system-wide things, like national policies or data systems",
+                    "short-title": "help",
+                    "long-title": "What would help?",
+                    "content-type": "subsection",
+                    "content": [
+                        {
+                            "short-title": "people-involved",
+                            "long-title": "Who should be involved?",
+                            "content-type": "list",
+                            "content": [
+                                "Regulatory bodies like the General Medical Council (GMC) and Nursing and Midwifery Council (NMC)"
+                            ]
+                        },
+                        {
+                            "short-title": "causes",
+                            "long-title": "What are the causes of the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Regulatory bodies and national standards do not require health literacy training"
+                            ]
+                        },
+                        {
+                            "short-title": "help",
+                            "long-title": "What would help to solve the problem?",
+                            "content-type": "list",
+                            "content": [
+                                "Government guidance for regulatory bodies"
+                            ]
+                        },
+                        {
+                            "short-title": "actions",
+                            "long-title": "What actions are involved in doing something about this?",
+                            "content-type": "list",
+                            "content": [
+                                "Talking with the government about the problem",
+                                "Change in government policy",
+                                "Talking with regulatory bodies"
+                            ]
+                        },
+                        {
+                            "short-title": "delivery",
+                            "long-title": "How will we deliver these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Writing policy briefs"
+                            ]
+                        },
+                        {
+                            "short-title": "action-outcome",
+                            "long-title": "What do we expect to come out of these actions?",
+                            "content-type": "list",
+                            "content": [
+                                "Health literacy training will be embedded in health and public health professional training"
+                            ]
+                        },
+                        {
+                            "short-title": "change-marker",
+                            "long-title": "How will we know things have changed?",
+                            "content-type": "list",
+                            "content": [
+                                "Health literacy will appear in health and public health training"
+                            ]
+                        },
+                        {
+                            "short-title": "short-term-change",
+                            "long-title": "What will have changed in 1 year?",
+                            "content-type": "list",
+                            "content": [
+                                "Policy brief to ministers"
+                            ]
+                        },
+                        {
+                            "short-title": "long-term-change",
+                            "long-title": "What will have happened in 3 years?",
+                            "content-type": "list",
+                            "content": [
+                                "More health and public health professions will be starting to learn about health literacy as they train"
+                            ]
+                        }
+                    ]
+                }
             ]
         },
         {
