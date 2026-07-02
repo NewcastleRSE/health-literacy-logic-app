@@ -29,7 +29,7 @@ Creating a new branch is not strictly necessary, although it is recommended if y
 
 1. Ensure you are logged in to github
 1. Go to the [root of the repository](https://github.com/NewcastleRSE/health-literacy-logic-app)
-1. On the top left of the screen, just below the title of the repository, there is a dropdown button to select the current branch (normally, that would be dev)
+1. On the top left of the screen, just below the title of the repository, there is a dropdown button to select the current branch (normally, that would be `dev`)
 1. Press the button and type the name of the new branch in the input box, then click the message below that says `create branch XYZ from branch dev`
 
 ### Editing the file
@@ -59,7 +59,7 @@ After making your changes, it's time to merge them to the main website. We start
 
 ### Automatic deployment
 
-If all went well, merging the pull request should have triggered an action to publish the website with the new changes. You should be able whether the action was successful by clicking in the `Actions` tab on the top of the screen. The top action on the list should be the one triggered by your changes, and it should display a green tick after a few minutes. This means the changes will be visible on [the website](https://newcastlerse.github.io/health-literacy-logic-app/)
+If all went well, merging the pull request should have triggered an action to publish the website with the new changes. You should be able to see whether the action was successful by clicking in the `Actions` tab on the top of the screen. The top action on the list should be the one triggered by your changes, and it should display a green tick after a few minutes. This means the changes will be visible on [the website](https://newcastlerse.github.io/health-literacy-logic-app/)
 
 ## Making changes to the About page
 
