@@ -15,4 +15,4 @@
     </div>
 {/if}
 
-<ps>{JSON.stringify(section)}</ps>
+<p>{JSON.stringify(section)}</p>
