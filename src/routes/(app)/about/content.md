@@ -13,8 +13,11 @@ layout: article
 This tool has been designed to give you ideas and suggestions for designing projects to do with health literacy and checking whether they've made a difference. ​
 On the homepage and the 'problems' page you will see some problems that affect people's health literacy. You can use this to select the problem that you are trying to address through your project. This will take you to a new page which focuses on that problem, giving you a list of suggestions that may help you to develop or evaluate a project. 
 On each problem page, you will see three buttons: 'individual level', 'organisation level' and 'system level'. You can select the level that you are interested in, or browse all levels if you aren't sure yet.
+
 'Individual level means things that happen between individuals, like one-to-one support or care.
+
 'Organisation level' means things that happen in organisations or communities, like teamwork or service coordination.
+
 'System level' means big system-wide things, like national policies or data systems.
 
 On the left-hand side you will see questions that you might want to think about and answer as part of your project. You will also see suggestions for what you could do about the problem. Remember, these are just ideas that have been designed to help you, but there will be other things that are relevant in your organisation or context.  
