@@ -31,10 +31,10 @@
 	</div>
 	<div class="mx-auto max-w-2xl text-center">
 		<h2 class="text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl dark:text-white">
-			PATH
+			Project PATH
 		</h2>
 		<p class="mt-8 text-lg font-medium text-pretty text-gray-700 sm:text-xl/8 dark:text-gray-400">
-			Planning and Assessment Tool for Health Literacy
+			Planning and Assessment Tool for Health Literacy Projects
 		</p>
 	</div>
 </div>
@@ -45,8 +45,9 @@
 			Problems
 		</h2>
 		<p class="mt-4 text-gray-500 dark:text-gray-400">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, doloribus sint perferendis eveniet vel expedita minima aspernatur. Voluptatum in tempore incidunt dignissimos, eligendi, illum similique beatae esse voluptates tenetur architecto.
-		</p>
+		This tool has been designed to give you ideas and suggestions for designing projects to do with health literacy and checking whether they've made a difference. Choose a problem from the selection below to get started. Click the 'About' page link at the top of this page for more information on using the tool.
+
+</p>
 	</div>
 	<CardCollection cardItems={problems} />
 </div>

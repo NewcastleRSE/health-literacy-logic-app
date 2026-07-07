@@ -11,7 +11,7 @@
             "content-type": "section-choice",
             "content": [
                 {
-                    "choice-option": "Micro-level",
+                    "choice-option": "Individual level",
                     "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
                     "content-type": "subsection",
                     "content": [
@@ -78,7 +78,7 @@
                             "content-type": "list",
                             "content": [
                                 "Better materials for people receiving services",
-                                "Increased patient satisfaction (surveys, interviews)"
+                                "Increased patient and public satisfaction (surveys, interviews)"
                             ]
                         },
                         {
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Meso-level",
+                    "choice-option": "Organisation level",
                     "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
                     "short-title": "help",
                     "long-title": "What would help?",
@@ -135,9 +135,9 @@
                             "long-title": "How will we deliver these actions?",
                             "content-type": "list",
                             "content": [
-                                "Review of all systems",
-                                "Audit process using tools such as MPOHL ORG HL",
-                                "Systems tailored to client / patient need"
+                                "Review systems to find out what changes can be made to improve health literacy",
+                                "Review processes to find out what changes can be made to improve health literacy",
+                                "Systems tailored to patient and public need"
                             ]
                         },
                         {
@@ -162,7 +162,7 @@
                             "long-title": "What will have changed in 1 year?",
                             "content-type": "list",
                             "content": [
-                                "Improved systems that work better for patients"
+                                "Improved systems that work better for patients and the public"
                             ]
                         },
                         {
@@ -176,7 +176,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Macro-level",
+                    "choice-option": "System level",
                     "choice-subtitle": "Big system-wide things, like national policies or data systems",
                     "short-title": "help",
                     "long-title": "What would help?",

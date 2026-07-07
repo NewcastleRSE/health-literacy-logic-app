@@ -1,7 +1,7 @@
 ---
-title: "About the Health Literacy Logic Tool"
+title: "About the Health Literacy Logic Model Tool"
 eyebrow: "Introducing"
-lead: "Etiam sodales quam nec sem congue volutpat sit amet eget enim. Cras eu lacus eu eros suscipit porttitor. In hac habitasse platea dictumst. Donec lacus metus, aliquet ut viverra sed, rutrum at massa."
+lead: "Welcome to the Health Literacy Logic Model Tool. This tool has been designed to help you to develop and evaluate health literacy projects."
 layout: article
 ---
 
@@ -10,16 +10,24 @@ layout: article
     import ImageContainer from '$lib/components/ImageContainer.svelte'
 </script>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce condimentum congue urna, non porta dui varius non. Morbi interdum ut enim eget volutpat. Cras at tempor purus. Morbi dolor sapien, consequat posuere nibh sed, rutrum pellentesque ante. Donec enim lectus, sagittis sit amet enim quis, condimentum consectetur odio. Etiam sodales quam nec sem congue volutpat sit amet eget enim. Cras eu lacus eu eros suscipit porttitor. In hac habitasse platea dictumst. Donec lacus metus, aliquet ut viverra sed, rutrum at massa. Integer tempor turpis ante, a dictum ipsum sagittis ut. Sed laoreet felis et posuere varius. Suspendisse convallis euismod tortor, sit amet fringilla massa accumsan at. Phasellus ut ipsum ultricies, malesuada mi eget, pellentesque quam. Donec dui mauris, semper non erat a, dignissim venenatis sem. Vestibulum tempor nisi et volutpat laoreet. Nunc posuere accumsan orci, vel convallis sapien pellentesque vel.
+This tool has been designed to give you ideas and suggestions for designing projects to do with health literacy and checking whether they've made a difference. ​
+On the homepage and the 'problems' page you will see some problems that affect people's health literacy. You can use this to select the problem that you are trying to address through your project. This will take you to a new page which focuses on that problem, giving you a list of suggestions that may help you to develop or evaluate a project. 
+On each problem page, you will see three buttons: 'individual level', 'organisation level' and 'system level'. You can select the level that you are interested in, or browse all levels if you aren't sure yet.
 
-Ut semper varius ex, et suscipit nisl aliquam eget. Mauris vel libero quis ex egestas volutpat. Aliquam et congue sem. Proin et urna ultricies, tristique lorem in, tempus risus. Nam quis pretium ante. Phasellus egestas ullamcorper massa, id ornare felis varius vel. Proin non tellus elit. Nulla hendrerit rutrum diam, nec tempor mi pulvinar non.
+'Individual level means things that happen between individuals, like one-to-one support or care.
 
-Nulla placerat ornare nibh, at mollis felis vestibulum et. Curabitur risus nisi, pretium viverra tellus non, venenatis fringilla augue. Morbi egestas massa nulla, vitae bibendum ligula aliquam eu. Mauris tristique condimentum velit at molestie. Vestibulum ut venenatis dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras imperdiet dignissim pellentesque.
+'Organisation level' means things that happen in organisations or communities, like teamwork or service coordination.
 
-<ImageContainer src="{base}/assets/images/bermix-studio-00heEp9LFP0-unsplash.jpg" alt="Medical student textbooks with pencil and white bookmarks and stethoscope." caption="Health literacy is important -- an example caption"/>
+'System level' means big system-wide things, like national policies or data systems.
 
-Integer aliquet ante nisl, sed rhoncus dolor consequat ut. Aenean nec tincidunt ipsum. Fusce porta, quam non vestibulum bibendum, enim magna porttitor metus, ac dictum turpis ante non eros. Morbi laoreet porttitor quam, vel mollis risus venenatis eu. Aenean et mauris sit amet sapien varius mattis. Vivamus sem neque, lacinia vel congue sit amet, eleifend et sem.
+On the left-hand side you will see questions that you might want to think about and answer as part of your project. You will also see suggestions for what you could do about the problem. Remember, these are just ideas that have been designed to help you, but there will be other things that are relevant in your organisation or context.  
+​
+You will also see information about any similar projects that are planned or happening, so you can get in touch with the people doing them if you wish. 
+​
+You can also add details of your own project so that other people can find out more about it. Scroll down for information about how to do this.​
 
-Donec aliquam velit sed convallis aliquet. Integer luctus non nisi et lobortis. Ut feugiat, lectus in posuere rutrum, ex massa sollicitudin odio, ut auctor tortor nibh nec est. Suspendisse vitae lectus ex. Nam et pharetra quam. Maecenas interdum nulla ac diam vehicula, non egestas libero finibus. Fusce pharetra orci et justo rhoncus suscipit. Nulla ut finibus arcu. Suspendisse dignissim nibh vel mi consectetur, et blandit odio gravida. Sed vel ante lacinia, aliquet mauris in, ullamcorper lorem.
+Remember, the contents of this webpage are only suggestions. You don’t need to follow them, and you may have ideas that are not currently in the tool. There are links to a form on each 'problem' page where you can ask us to add your suggestions into the tool. We would like to understand who is using this tool and if it is helpful, so there is also a feedback form. We would be very grateful if you use these to add information and give us feedback on how we can improve the tool.
+We hope you find the Project PATH helpful!
 
-Etiam vehicula, augue sit amet fringilla venenatis, elit dolor fringilla nisi, vel sodales odio purus ac urna. Suspendisse quis luctus libero. Maecenas eget odio efficitur, finibus quam nec, tristique orci. Maecenas eget nisl facilisis, dapibus tellus sit amet, iaculis nisi. Aenean a suscipit quam. Sed neque lorem, eleifend eget enim vitae, eleifend gravida odio. Sed in porttitor nulla. Integer aliquet ante nisl, sed rhoncus dolor consequat ut. Aenean nec tincidunt ipsum. Fusce porta, quam non vestibulum bibendum, enim magna porttitor metus, ac dictum turpis ante non eros. Morbi laoreet porttitor quam, vel mollis risus venenatis eu. Aenean et mauris sit amet sapien varius mattis. Vivamus sem neque, lacinia vel congue sit amet, eleifend et sem. 
+<ImageContainer src="{base}/assets/images/bermix-studio-00heEp9LFP0-unsplash.jpg" alt="Medical student textbooks with pencil and white bookmarks and stethoscope." caption="Project PATH- Planning and Assessment Tool for Health Literacy"/>
+

@@ -11,7 +11,7 @@
             "content-type": "section-choice",
             "content": [
                 {
-                    "choice-option": "Micro-level",
+                    "choice-option": "Individual level",
                     "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
                     "content-type": "subsection",
                     "content": [
@@ -134,7 +134,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Meso-level",
+                    "choice-option": "Organisation level",
                     "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
                     "short-title": "help",
                     "long-title": "What would help?",
@@ -205,7 +205,7 @@
                                 "Deliver authorised training courses",
                                 "Deliver online training",
                                 "Develop online materials",
-                                "Utilise patient, client and carer feedback/involvement",
+                                "Utilise patient, client, carer and public feedback/involvement",
                                 "Targeting interventions",
                                 "Develop online/IT tools",
                                 "Develop systems that respond to peoples’ needs",
@@ -222,7 +222,7 @@
                             "content": [
                                 "Health information in languages other than English",
                                 "More staff training (e.g. in health literacy)",
-                                "Improved patient engagement and understanding",
+                                "Improved patient and public engagement and understanding",
                                 "Appropriate systems for sharing translated materials and good practice/good materials",
                                 "Clear language used across systems"
                             ]
@@ -238,7 +238,7 @@
                                 "Number of languages where health information is available",
                                 "% of information that is available in other languages",
                                 "Number / % of materials in clear language",
-                                "Understanding of the number of languages spoken in NENC",
+                                "Understanding of the number of languages spoken locally",
                                 "Proportion of key health texts available in these languages",
                                 "Levels of co-ordination across systems",
                                 "Check whether systems are good enough",
@@ -251,7 +251,7 @@
                             "long-title": "What will have changed in 1 year?",
                             "content-type": "list",
                             "content": [
-                                "Improved patient / client understanding of health and health and care systems",
+                                "Improved patient / client and public understanding of health and health and care systems",
                                 "More staff will be trained",
                                 "Number of organisations trained",
                                 "Systems that are easier to navigate",
@@ -268,7 +268,6 @@
                             "long-title": "What will have happened in 3 years?",
                             "content-type": "list",
                             "content": [
-                                "More patient satisfaction",
                                 "Improved patient satisfaction",
                                 "Better use of hospital/GP appointments",
                                 "Fewer people not attending appointments",
@@ -283,7 +282,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Macro-level",
+                    "choice-option": "System level",
                     "choice-subtitle": "Big system-wide things, like national policies or data systems",
                     "short-title": "help",
                     "long-title": "What would help?",

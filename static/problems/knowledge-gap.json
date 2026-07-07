@@ -11,7 +11,7 @@
             "content-type": "section-choice",
             "content": [
                 {
-                    "choice-option": "Micro-level",
+                    "choice-option": "Individual level",
                     "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
                     "content-type": "subsection",
                     "content": [
@@ -20,7 +20,7 @@
                             "long-title": "Who should be involved?",
                             "content-type": "list",
                             "content": [
-                                "Patients",
+                                "Patients and the public",
                                 "People with lower reading, counting and money skills",
                                 "People from vulnerable groups like disabled people",
                                 "People experiencing homelessness",
@@ -115,7 +115,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Meso-level",
+                    "choice-option": "Organisation level",
                     "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
                     "short-title": "help",
                     "long-title": "What would help?",
@@ -181,8 +181,8 @@
                             "long-title": "What do we expect to come out of these actions?",
                             "content-type": "list",
                             "content": [
-                                "Patients and clients have better understanding of health",
-                                "Patients and clients have better understanding of local authority and social services systems",
+                                "Patients / clients and the public have better understanding of health",
+                                "atients / clients and the public have better understanding of local authority and social services systems",
                                 "Increased patient and client satisfaction",
                                 "Greater trust between patients/clients and health and local authority organisations"
                             ]
@@ -193,7 +193,7 @@
                             "content-type": "list",
                             "content": [
                                 "Number of people who have been trained",
-                                "Patient satisfaction"
+                                "Patient and public satisfaction"
                             ]
                         },
                         {
@@ -220,7 +220,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Macro-level",
+                    "choice-option": "System level",
                     "choice-subtitle": "Big system-wide things, like national policies or data systems",
                     "short-title": "help",
                     "long-title": "What would help?",
