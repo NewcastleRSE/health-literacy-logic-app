@@ -205,7 +205,7 @@
                                 "Deliver authorised training courses",
                                 "Deliver online training",
                                 "Develop online materials",
-                                "Utilise patient, client and carer feedback/involvement",
+                                "Utilise patient, client, carer and public feedback/involvement",
                                 "Targeting interventions",
                                 "Develop online/IT tools",
                                 "Develop systems that respond to peoples’ needs",
@@ -222,7 +222,7 @@
                             "content": [
                                 "Health information in languages other than English",
                                 "More staff training (e.g. in health literacy)",
-                                "Improved patient engagement and understanding",
+                                "Improved patient and public engagement and understanding",
                                 "Appropriate systems for sharing translated materials and good practice/good materials",
                                 "Clear language used across systems"
                             ]
@@ -251,7 +251,7 @@
                             "long-title": "What will have changed in 1 year?",
                             "content-type": "list",
                             "content": [
-                                "Improved patient / client understanding of health and health and care systems",
+                                "Improved patient / client and public understanding of health and health and care systems",
                                 "More staff will be trained",
                                 "Number of organisations trained",
                                 "Systems that are easier to navigate",
@@ -268,7 +268,6 @@
                             "long-title": "What will have happened in 3 years?",
                             "content-type": "list",
                             "content": [
-                                "More patient satisfaction",
                                 "Improved patient satisfaction",
                                 "Better use of hospital/GP appointments",
                                 "Fewer people not attending appointments",
