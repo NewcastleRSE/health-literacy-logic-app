@@ -1,5 +1,5 @@
 ---
-title: "About the Health Literacy Logic Tool"
+title: "About the Health Literacy Logic Model Tool"
 eyebrow: "Introducing"
 lead: "Etiam sodales quam nec sem congue volutpat sit amet eget enim. Cras eu lacus eu eros suscipit porttitor. In hac habitasse platea dictumst. Donec lacus metus, aliquet ut viverra sed, rutrum at massa."
 layout: article
