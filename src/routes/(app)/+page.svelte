@@ -45,8 +45,9 @@
 			Problems
 		</h2>
 		<p class="mt-4 text-gray-500 dark:text-gray-400">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, doloribus sint perferendis eveniet vel expedita minima aspernatur. Voluptatum in tempore incidunt dignissimos, eligendi, illum similique beatae esse voluptates tenetur architecto.
-		</p>
+		This tool has been designed to give you ideas and suggestions for designing projects to do with health literacy and checking whether they've made a difference. Choose a problem from the selection below to get started. Click the 'About' page link at the top of this page for more information on using the tool.
+
+</p>
 	</div>
 	<CardCollection cardItems={problems} />
 </div>
