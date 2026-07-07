@@ -26,7 +26,7 @@ You will also see information about any similar projects that are planned or hap
 ​
 You can also add details of your own project so that other people can find out more about it. Scroll down for information about how to do this.​
 
-Remember, the contents of this webpage are only suggestions. You don’t need to follow them, and you may have ideas that are not currently in the tool. There are links to a form on each 'problem' page where you can ask us to add your suggestions into the tool. We would be very grateful if you use these to add information and give us feedback on how we can improve the tool.
+Remember, the contents of this webpage are only suggestions. You don’t need to follow them, and you may have ideas that are not currently in the tool. There are links to a form on each 'problem' page where you can ask us to add your suggestions into the tool. We would like to understand who is using this tool and if it is helpful, so there is also a feedback form. We would be very grateful if you use these to add information and give us feedback on how we can improve the tool.
 We hope you find the Project PATH helpful!
 
 <ImageContainer src="{base}/assets/images/bermix-studio-00heEp9LFP0-unsplash.jpg" alt="Medical student textbooks with pencil and white bookmarks and stethoscope." caption="Project PATH- Planning and Assessment Tool for Health Literacy"/>
