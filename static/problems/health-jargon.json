@@ -11,7 +11,7 @@
             "content-type": "section-choice",
             "content": [
                 {
-                    "choice-option": "Micro-level",
+                    "choice-option": "Individual level",
                     "choice-subtitle": "Things that happen between individuals, like one-to-one support or care",
                     "content-type": "subsection",
                     "content": [
@@ -109,7 +109,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Meso-level",
+                    "choice-option": "Organisation level",
                     "choice-subtitle": "Things that happen in organisations or communities, like teamwork or service coordination",
                     "short-title": "help",
                     "long-title": "What would help?",
@@ -214,7 +214,7 @@
                     ]
                 },
                 {
-                    "choice-option": "Macro-level",
+                    "choice-option": "System level",
                     "choice-subtitle": "Big system-wide things, like national policies or data systems",
                     "short-title": "help",
                     "long-title": "What would help?",
