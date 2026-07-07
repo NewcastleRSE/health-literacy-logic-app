@@ -31,10 +31,10 @@
 	</div>
 	<div class="mx-auto max-w-2xl text-center">
 		<h2 class="text-5xl font-semibold tracking-tight text-gray-900 sm:text-7xl dark:text-white">
-			PATH
+			Project PATH
 		</h2>
 		<p class="mt-8 text-lg font-medium text-pretty text-gray-700 sm:text-xl/8 dark:text-gray-400">
-			Planning and Assessment Tool for Health Literacy
+			Planning and Assessment Tool for Health Literacy Projects
 		</p>
 	</div>
 </div>
