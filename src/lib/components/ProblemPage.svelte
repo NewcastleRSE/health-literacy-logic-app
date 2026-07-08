@@ -5,6 +5,8 @@
 	import {base} from '$app/paths';
 
 	import ProblemSection from '$lib/components/ProblemSection.svelte';
+	import MarkdownContent from '$lib/components/MarkdownContent.svelte';
+	import AlertBox from '$lib/components/AlertBox.svelte';
 
 	let { problem } = $props();
 </script>
@@ -19,6 +21,11 @@
 			{problem['short-title']}
 		</p>
 		<h3 class="text-base/7 font-semibold text-gray-900 dark:text-white">{problem['long-title']}</h3>
+		
+		{#if problem['subtitle']}
+		<h4 class="text-lg italic font-light text-gray-800 dark:text-white mt-4"><MarkdownContent markdown={problem['subtitle']} /></h4>
+		{/if}
+		
 		<!-- <span class="mb-2 inline-block rounded-full px-2 py-1 text-xs {levelsDictionary[problem.level]["background"]} {levelsDictionary[problem.level]["text"]}"
 			>{problem['level']}</span
 		> -->
@@ -36,6 +43,9 @@
 			</div>
 		{/if}
 		</div>
+		{#if problem['alert-block']}
+			<AlertBox alert={problem['alert-block']} />
+		{/if}
 	</div>
 	<div class="border-t border-gray-100 dark:border-white/5">
 		<dl class="divide-y divide-gray-100 dark:divide-white/5">

@@ -15,6 +15,40 @@
                 "long-title": {
                     "type": "string"
                 },
+                "subtitle": {
+                    "type": "string"
+                },
+                "alert-block": {
+                    "type": "object",
+                    "properties": {
+                        "alert-type": {
+                            "anyOf": [
+                                {
+                                    "enum": [
+                                        "note",
+                                        "tip",
+                                        "warning",
+                                        "danger"
+                                    ]
+                                },
+                                {
+                                    "type": "string"
+                                }
+                            ]
+                        },
+                        "alert-title": {
+                            "type": "string"
+                        },
+                        "alert-content": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "alert-type",
+                        "alert-title",
+                        "alert-content"
+                    ]
+                },
                 "level": {
                     "type": "string"
                 },
@@ -31,7 +65,6 @@
             "required": [
                 "icon",
                 "id",
-                "level",
                 "long-title",
                 "sections",
                 "short-title"
