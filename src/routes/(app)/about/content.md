@@ -1,7 +1,7 @@
 ---
 title: "About Project PATH"
 eyebrow: "Introducing"
-lead: "Welcome to Project PATH. This tool has been designed to help you to develop and evaluate health literacy projects.
+lead: "Welcome to Project PATH. This tool has been designed to help you to develop and evaluate health literacy projects.<br>
 
 If you have difficulty viewing this website you can adjust the accessibility settings on your computer"
 layout: article
