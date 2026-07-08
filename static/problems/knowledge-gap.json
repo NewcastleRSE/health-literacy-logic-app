@@ -20,7 +20,7 @@
                             "long-title": "Who should be involved?",
                             "content-type": "list",
                             "content": [
-                                "Patients and the public",
+                                "patients, carers and the public",
                                 "People with lower reading, counting and money skills",
                                 "People from vulnerable groups like disabled people",
                                 "People experiencing homelessness",
@@ -181,10 +181,10 @@
                             "long-title": "What do we expect to come out of these actions?",
                             "content-type": "list",
                             "content": [
-                                "Patients / clients and the public have better understanding of health",
-                                "atients / clients and the public have better understanding of local authority and social services systems",
-                                "Increased patient and client satisfaction",
-                                "Greater trust between patients/clients and health and local authority organisations"
+                                "patients, carers and the public have better understanding of health",
+                                "patients, carers and the public have better understanding of local authority and social services systems",
+                                "Increased patient, carer and public satisfaction",
+                                "Greater trust between patients, carers and the public and health and local authority organisations"
                             ]
                         },
                         {
@@ -193,7 +193,7 @@
                             "content-type": "list",
                             "content": [
                                 "Number of people who have been trained",
-                                "Patient and public satisfaction"
+                                "patient, carer and public satisfaction"
                             ]
                         },
                         {
