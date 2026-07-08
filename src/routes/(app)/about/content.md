@@ -1,5 +1,5 @@
 ---
-title: "About the Health Literacy Logic Model Tool"
+title: "About Project PATH"
 eyebrow: "Introducing"
 lead: "Welcome to Project PATH. This tool has been designed to help you to develop and evaluate health literacy projects.
 
