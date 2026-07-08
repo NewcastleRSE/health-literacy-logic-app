@@ -2,6 +2,11 @@
     "id": "teachers-health-literacy",
     "short-title": "Teachers health literacy",
     "long-title": "Teachers and social workers not trained in health literacy",
+    "alert-block": {
+        "alert-type": "note",
+        "alert-title": "Section under development",
+        "alert-content": "If you would like to add your ideas please use [this form](http://example.com)"
+    },
     "level": "system",
     "icon": "teacher, school, educator, classroom, instructor.svg",
     "sections": [
