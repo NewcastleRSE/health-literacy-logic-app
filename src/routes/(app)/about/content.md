@@ -11,7 +11,7 @@ layout: article
 </script>
 If you have difficulty viewing this website you can adjust the accessibility settings on your computer.
 
-This tool has been designed to give you ideas and suggestions for designing projects to do with health literacy and checking whether they've made a difference. ​
+This tool has been designed to support projects about improving health literacy. The tool is also known as a logic model. It will give you ideas and suggestions for designing projects and checking whether they've made a difference. ​
 On the homepage and the 'problems' page you will see some problems that affect people's health literacy. You can use this to select the problem that you are trying to address through your project. This will take you to a new page which focuses on that problem, giving you a list of suggestions that may help you to develop or evaluate a project. 
 
 On each problem page, you will see three buttons: 'individual level', 'organisation level' and 'system level'. You can select the level that you are interested in, or browse all levels if you aren't sure yet.
@@ -30,6 +30,8 @@ You can also add details of your own project so that other people can find out m
 
 Remember, the contents of this webpage are only suggestions. You don’t need to follow them, and you may have ideas that are not currently in the tool. There are links to a form on each 'problem' page where you can ask us to add your suggestions into the tool. We would like to understand who is using this tool and if it is helpful, so there is also a feedback form. We would be very grateful if you use these to add information and give us feedback on how we can improve the tool.
 We hope you find the Project PATH helpful!
+
+If you are already doing projects in this area, you can share details of your work using this form: 
 
 We kindly ask that you cite this tool in any work that has been developed using the model. 
 Suggested citation: Project PATH: Planning and Assessment Tool for Health Literacy Projects. From https://newcastlerse.github.io/health-literacy-logic-app/
