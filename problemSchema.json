@@ -21,6 +21,7 @@
                 "alert-block": {
                     "type": "object",
                     "items": {
+                        "type": "object",
                         "alert-type": {
                             "anyOf": [
                                 {
