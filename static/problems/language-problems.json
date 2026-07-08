@@ -56,7 +56,7 @@
                                 "Staff training courses (and frequent updates)",
                                 "Reading groups",
                                 "Getting people involved and active",
-                                "Telling patients how systems work",
+                                "Telling patients, carers and the public how systems work",
                                 "Rewriting materials so they are easier to read",
                                 "Teaching/training people to navigate systems",
                                 "Checking that materials are clear enough",
@@ -74,7 +74,7 @@
                                 "Use clear language in leaflets, websites etc.",
                                 "Engage with people who can develop visual and audio alternatives to information",
                                 "Check whether materials are clear enough",
-                                "Telling patients how systems work"
+                                "Telling patients, carers and the public how systems work"
                             ]
                         },
                         {
@@ -97,13 +97,13 @@
                             "content-type": "list",
                             "content": [
                                 "Client feedback on impact",
-                                "Qualitative feedback from patients and the public",
-                                "Measuring patient satisfaction",
+                                "Qualitative feedback from patients, carers and the public",
+                                "Measuring patient, carer and public satisfaction",
                                 "Blood pressure",
                                 "Reduced addiction and use of illicit substances",
                                 "School success",
                                 "Increased knowledge and skills in health literacy",
-                                "Self-assessment questionnaires filled in by patients, members of the public and staff"
+                                "Self-assessment questionnaires filled in by patients, carers and the public and staff"
                             ]
                         },
                         {
@@ -205,7 +205,7 @@
                                 "Deliver authorised training courses",
                                 "Deliver online training",
                                 "Develop online materials",
-                                "Utilise patient, client, carer and public feedback/involvement",
+                                "Utilise patient, carer and public feedback/involvement",
                                 "Targeting interventions",
                                 "Develop online/IT tools",
                                 "Develop systems that respond to peoples’ needs",
@@ -222,7 +222,7 @@
                             "content": [
                                 "Health information in languages other than English",
                                 "More staff training (e.g. in health literacy)",
-                                "Improved patient and public engagement and understanding",
+                                "Improved patient, carer and public engagement and understanding",
                                 "Appropriate systems for sharing translated materials and good practice/good materials",
                                 "Clear language used across systems"
                             ]
@@ -251,11 +251,11 @@
                             "long-title": "What will have changed in 1 year?",
                             "content-type": "list",
                             "content": [
-                                "Improved patient / client and public understanding of health and health and care systems",
+                                "Improved patient, carer and public understanding of health and health and care systems",
                                 "More staff will be trained",
                                 "Number of organisations trained",
                                 "Systems that are easier to navigate",
-                                "Systems that work better for patients",
+                                "Systems that work better for patients, carers and the public",
                                 "More patients attending screening and appointments (and being properly prepared)",
                                 "Increased satisfaction with services",
                                 "Improved satisfactory and empowerment in staff (staff more engaged)",
@@ -268,7 +268,7 @@
                             "long-title": "What will have happened in 3 years?",
                             "content-type": "list",
                             "content": [
-                                "Improved patient satisfaction",
+                                "Improved patient, carer and public satisfaction",
                                 "Better use of hospital/GP appointments",
                                 "Fewer people not attending appointments",
                                 "More early investigation and diagnosis",
