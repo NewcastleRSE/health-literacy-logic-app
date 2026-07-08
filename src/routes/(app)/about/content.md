@@ -1,7 +1,9 @@
 ---
 title: "About the Health Literacy Logic Model Tool"
 eyebrow: "Introducing"
-lead: "Welcome to the Health Literacy Logic Model Tool. This tool has been designed to help you to develop and evaluate health literacy projects."
+lead: "Welcome to Project PATH. This tool has been designed to help you to develop and evaluate health literacy projects.
+
+If you have difficulty viewing this website you can adjust the accessibility settings on your computer"
 layout: article
 ---
 
@@ -28,6 +30,9 @@ You can also add details of your own project so that other people can find out m
 
 Remember, the contents of this webpage are only suggestions. You don’t need to follow them, and you may have ideas that are not currently in the tool. There are links to a form on each 'problem' page where you can ask us to add your suggestions into the tool. We would like to understand who is using this tool and if it is helpful, so there is also a feedback form. We would be very grateful if you use these to add information and give us feedback on how we can improve the tool.
 We hope you find the Project PATH helpful!
+
+We kindly ask that you cite this tool in any work that has been developed using the model. 
+Suggested citation: Project PATH: Planning and Assessment Tool for Health Literacy Projects. From https://newcastlerse.github.io/health-literacy-logic-app/
 
 <ImageContainer src="{base}/assets/images/bermix-studio-00heEp9LFP0-unsplash.jpg" alt="Medical student textbooks with pencil and white bookmarks and stethoscope." caption="Project PATH- Planning and Assessment Tool for Health Literacy"/>
 
