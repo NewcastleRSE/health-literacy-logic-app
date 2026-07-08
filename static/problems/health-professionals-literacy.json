@@ -2,7 +2,6 @@
     "id": "health-professionals-literacy",
     "short-title": "Health professionals literacy",
     "long-title": "Health and public health professionals are not trained in health literacy",
-    "subtitle": "this is an example [subtitle](http://example.com)",
     "alert-block": {
         "alert-type": "note",
         "alert-title": "This is an alert title",
