@@ -1,9 +1,7 @@
 ---
 title: "About Project PATH"
 eyebrow: "Introducing"
-lead: "Welcome to Project PATH. This tool has been designed to help you to develop and evaluate health literacy projects.<br>
-
-If you have difficulty viewing this website you can adjust the accessibility settings on your computer"
+lead: "Welcome to Project PATH. This tool has been designed to help you to develop and evaluate health literacy projects."
 layout: article
 ---
 
@@ -11,9 +9,11 @@ layout: article
 	import {base} from '$app/paths';
     import ImageContainer from '$lib/components/ImageContainer.svelte'
 </script>
+If you have difficulty viewing this website you can adjust the accessibility settings on your computer.
 
 This tool has been designed to give you ideas and suggestions for designing projects to do with health literacy and checking whether they've made a difference. ​
 On the homepage and the 'problems' page you will see some problems that affect people's health literacy. You can use this to select the problem that you are trying to address through your project. This will take you to a new page which focuses on that problem, giving you a list of suggestions that may help you to develop or evaluate a project. 
+
 On each problem page, you will see three buttons: 'individual level', 'organisation level' and 'system level'. You can select the level that you are interested in, or browse all levels if you aren't sure yet.
 
 'Individual level means things that happen between individuals, like one-to-one support or care.
