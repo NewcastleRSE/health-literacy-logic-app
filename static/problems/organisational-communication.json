@@ -23,7 +23,7 @@
                                 "Frontline health professionals",
                                 "Social workers",
                                 "Community health educators",
-                                "patients and the public",
+                                "patients, carers and the public",
                                 "Patient advocates"
                             ]
                         },
@@ -42,7 +42,7 @@
                             "content": [
                                 "Everyone using the same words",
                                 "Using words that are easy to understand",
-                                "Making sure written and spoken communication to patients and the public are easy to understand",
+                                "Making sure written and spoken communication to patients, carers and the public are easy to understand",
                                 "Letting people tell us when words are too complex"
                             ]
                         },
@@ -71,7 +71,7 @@
                             "content-type": "list",
                             "content": [
                                 "Less use of acronyms",
-                                "Better patient and public understanding of materials",
+                                "Better patient, carer and public understanding of materials",
                                 "Information that is more sensitive to different cultures"
                             ]
                         },
@@ -180,7 +180,7 @@
                             "long-title": "What will have changed in 1 year?",
                             "content-type": "list",
                             "content": [
-                                "Things will work better for patients and the public",
+                                "Things will work better for patients, carers and the public",
                                 "More organisations will be involved"
                             ]
                         },
