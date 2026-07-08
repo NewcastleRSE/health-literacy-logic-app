@@ -27,3 +27,14 @@
 <span class={`${className}`}>
 	{@html removeOuterTag(html)}
 </span>
+
+<style>
+	:global(a) {
+		text-decoration: underline;
+	}
+
+	:global(a:hover) {
+		text-decoration: underline;
+		font-weight: 600;
+	}
+</style>
