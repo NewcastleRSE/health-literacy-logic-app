@@ -27,7 +27,7 @@
                             "content-type": "list",
                             "content": [
                                 "Health professionals",
-                                "Patients and the public"
+                                "patients, carers and the public"
                             ]
                         },
                         {
@@ -35,7 +35,7 @@
                             "long-title": "What are the causes of the problem?",
                             "content-type": "list",
                             "content": [
-                                "Health professionals do not realise how important health literacy is for patient outcomes"
+                                "Health professionals do not realise how important health literacy is for health outcomes"
                             ]
                         }
                     ]
