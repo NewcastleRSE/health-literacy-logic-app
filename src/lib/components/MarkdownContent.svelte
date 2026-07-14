@@ -28,6 +28,7 @@
 		//check to see if any links contain {base}
 		const newBase = base ? `/${base}` : '';
 		const regex = new RegExp(`\/%7Bbase%7D`, 'g');
+		console.log(base, newBase);
 		return html.replace(regex, newBase);
 	}
 </script>
