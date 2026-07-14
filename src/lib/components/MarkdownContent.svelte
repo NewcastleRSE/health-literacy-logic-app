@@ -24,16 +24,10 @@
     return content.replace(/<\/?p>/g, "");
   }
 
-	function replaceBase(html) {
-		//check to see if any links contain {base}
-		const newBase = base ? base : '';
-		const regex = new RegExp(`\{base\}`, 'g');
-		return html.replace(regex, newBase);
-	}
 </script>
 
 <span class={`${className}`}>
-	{@html replaceBase(removeOuterTag(html))}
+	{@html removeOuterTag(html)}
 </span>
 
 <style>
