@@ -28,7 +28,6 @@
 		//check to see if any links contain {base}
 		const newBase = base ? base : '';
 		const regex = new RegExp(`\{base\}`, 'g');
-		console.log(base, newBase);
 		return html.replace(regex, newBase);
 	}
 </script>
