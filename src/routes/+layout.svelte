@@ -121,7 +121,7 @@
 {/if}
 
 <footer class="bg-white dark:bg-gray-900">
-	<div class="mx-auto max-w-7xl overflow-hidden py-20 px-6 sm:py-24 lg:px-8 flex flex-row gap-8 justify-center">
+	<div class="mx-auto max-w-7xl overflow-hidden py-20 px-6 sm:py-24 lg:px-8 flex flex-col md:flex-row gap-8 justify-center">
 		<a href="http://example.com" target="_blank" rel="noopener noreferrer">
 			<img class="mx-auto size-32" src="{base}/assets/logos/Longboard - Colour.jpg" alt="Logo" />
 		</a>
