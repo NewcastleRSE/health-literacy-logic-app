@@ -10,6 +10,8 @@
 <svelte:head>
 	<link rel="icon" href={favicon} />
 	<script src="https://cdn.jsdelivr.net/npm/@tailwindplus/elements@1" type="module"></script>
+	<script defer src="https://umami-app.blueglacier-edae29ed.uksouth.azurecontainerapps.io/script.js" data-website-id="1f2f8e6c-7469-4c22-afa9-f89bc46dc82a"></script>
+	<title>Project PATH</title>
 </svelte:head>
 
 <nav
