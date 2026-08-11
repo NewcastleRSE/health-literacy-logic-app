@@ -3,6 +3,7 @@
 	import { page } from '$app/state';
 	import {base} from '$app/paths';
 	import favicon from '$lib/assets/favicon.svg';
+	import FooterLogo from '$lib/components/FooterLogo.svelte';
 
 	let { children } = $props();
 </script>
@@ -124,17 +125,9 @@
 
 <footer class="bg-white dark:bg-gray-900">
 	<div class="mx-auto max-w-7xl overflow-hidden py-20 px-6 sm:py-24 lg:px-8 flex flex-col md:flex-row gap-8 justify-center">
-		<a href="http://example.com" target="_blank" rel="noopener noreferrer">
-			<img class="mx-auto size-32" src="{base}/assets/logos/Longboard - Colour.jpg" alt="Logo" />
-		</a>
-		<a href="http://example.com" target="_blank" rel="noopener noreferrer">
-			<img class="mx-auto size-32" src="{base}/assets/logos/North Shore - Colour.jpg" alt="Logo" />
-		</a>
-		<a href="http://example.com" target="_blank" rel="noopener noreferrer">
-			<img class="mx-auto size-32" src="{base}/assets/logos/Point Break - Colour.jpg" alt="Logo" />
-		</a>
-		<a href="http://example.com" target="_blank" rel="noopener noreferrer">
-			<img class="mx-auto size-32" src="{base}/assets/logos/Sea Dog - Colour.jpg" alt="Logo" />
-		</a>
+		<FooterLogo src="{base}/assets/logos/logo_rgb_colour.png" url="https://healthinnovationnenc.org.uk/" alt="Health Innovation North East and North Cumbria" />
+		<FooterLogo src="{base}/assets/logos/NENC-ICB.png" url="https://northeastnorthcumbria.nhs.uk/" alt="NHS North East and North Cumbria" />
+		<FooterLogo src="{base}/assets/logos/PNG-64181.Full Logo_CMYK.png" url="https://www.ncl.ac.uk/" alt="Newcastle University" />
+		<FooterLogo src="{base}/assets/logos/uos-logo-desktop.x7c55eae4.svg" url="https://www.sunderland.ac.uk/" alt="University of Sunderland" />
 	</div>
 </footer>
