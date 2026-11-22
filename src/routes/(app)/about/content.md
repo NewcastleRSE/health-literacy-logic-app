@@ -31,9 +31,10 @@ You can also add details of your own project so that other people can find out m
 Remember, the contents of this webpage are only suggestions. You don’t need to follow them, and you may have ideas that are not currently in the tool. There are links to a form on each 'problem' page where you can ask us to add your suggestions into the tool. We would like to understand who is using this tool and if it is helpful, so there is also a feedback form. We would be very grateful if you use these to add information and give us feedback on how we can improve the tool.
 We hope you find the Project PATH helpful!
 
-If you are already doing projects in this area, you can share details of your work using the form [here](https://forms.cloud.microsoft/e/rQzn784vrx) 
+If you are already doing projects in this area, you can share details of your work using the form [by clicking here](https://forms.cloud.microsoft/e/rQzn784vrx) 
 
-You can provide feedback or suggest contributions on the website [here](https://forms.cloud.microsoft/e/YAwdt6QeUB)
+You can provide feedback or suggest contributions on the website [by clicking here](https://forms.cloud.microsoft/e/YAwdt6QeUB)
+
 We kindly ask that you cite this tool in any work that has been developed using the model. 
 Suggested citation: Project PATH: Planning and Assessment Tool for Health Literacy Projects. From https://newcastlerse.github.io/health-literacy-logic-app/
 
