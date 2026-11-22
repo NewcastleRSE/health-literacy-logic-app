@@ -262,12 +262,9 @@
             ]
         },
         {
-            "short-title": "current-activities",
-            
-"long-title": "What are the current activities in this area?",
-
-},
-"content-type": "project-list",
+  "short-title": "current-activities",
+            "long-title": "What are the current activities in this area?",
+            "content-type": "project-list",
             "content": [
                 {
                     "short-title": "project-1",
