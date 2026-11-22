@@ -263,7 +263,8 @@
         },
         {
             "short-title": "current-activities",
-            "long-title": "What are the current activities in this area?",
+            "long-title": "What are the current activities in this area?
+            If you would like to add details of a project, please use [this](https://forms.cloud.microsoft/e/rQzn784vrx) form",
             "content-type": "project-list",
             "content": [
                 {
