@@ -263,8 +263,14 @@
         },
         {
             "short-title": "current-activities",
-            "long-title": "What are the current activities in this area? If you would like to add details of a project, please click [here](https://forms.cloud.microsoft/e/rQzn784vrx)",
-            "content-type": "project-list",
+            
+"long-title": "What are the current activities in this area?",
+"alert-block": {
+    "alert-type": "note",
+    "alert-title": "Have a project to add?",
+    "alert-content": "If you would like to add details of a project, please use [this form](https://forms.cloud.microsoft/e/rQzn784vrx)"
+},
+"content-type": "project-list",
             "content": [
                 {
                     "short-title": "project-1",
